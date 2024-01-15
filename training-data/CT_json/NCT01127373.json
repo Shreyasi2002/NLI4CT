@@ -42,7 +42,7 @@
         "  Completed IMRT: 111  95.7%",
         "  Ineligible: 4   3.4%"
     ],
-    "Adverse_Events": [
+    "Adverse Events": [
         "Adverse Events 1:",
         "  Total: 10/116 (8.62%)",
         "  Death not assoc w CTCAE term-Disease prog NOS  1/116 (0.86%)",

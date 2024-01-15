@@ -48,7 +48,7 @@
         "  Stable disease: 1",
         "  Progressive Disease: 2"
     ],
-    "Adverse_Events": [
+    "Adverse Events": [
         "Adverse Events 1:",
         "  Total: 6/25 (24.00%)",
         "  Neutropenia *3/25 (12.00%)",

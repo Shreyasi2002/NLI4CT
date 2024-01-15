@@ -47,7 +47,7 @@
         "  Overall Number of Units Analyzed",
         "  Type of Units Analyzed: Lymph Nodes  Measure Type: NumberNumber (95% Confidence Interval)Unit of Measure: Proportion of Lymph Nodes: 0.9767        (0.9466 to 0.9924)"
     ],
-    "Adverse_Events": [
+    "Adverse Events": [
         "Adverse Events 1:",
         "  Total: 4/179 (2.23%)",
         "  Myocardial Infarction  [1]1/179 (0.56%)",

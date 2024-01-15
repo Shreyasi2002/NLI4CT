@@ -65,7 +65,7 @@
         "  Stable Disease: 1",
         "  Progressive Disease: 2"
     ],
-    "Adverse_Events": [
+    "Adverse Events": [
         "Adverse Events 1:",
         "  Total: 9/13 (69.23%)",
         "  Infection/Febrile Neutropenia  [1]3/13 (23.08%)",

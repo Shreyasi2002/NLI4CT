@@ -38,7 +38,7 @@
     },
     "dbed5471-c2fc-45b5-b26f-430c9fa37a37": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00093145",
         "Secondary_id": "NCT00703326",
         "Statement": "Heart-related adverse events were recorded in both the primary trial and the secondary trial.",
@@ -218,7 +218,7 @@
     },
     "83b83400-1439-462d-bba3-42817b5b1fa1": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00777049",
         "Statement": "Most of the cases of CHF in the primary trial, were in cohort 1.",
         "Label": "Entailment",
@@ -421,7 +421,7 @@
     },
     "1b4f8828-cc7f-4831-a1c0-cc14e6ad23af": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00777101",
         "Secondary_id": "NCT00559845",
         "Statement": "There were no completed suicides in either the primary trial or the secondary trial, however there was one attempt in cohort 1 of the secondary trial.",
@@ -522,7 +522,7 @@
     },
     "8275f846-59b6-404d-a6d8-e01335279f1a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03066947",
         "Statement": "Less than 1/4 patients in the primary trial experienced adverse events.",
         "Label": "Contradiction",
@@ -579,7 +579,7 @@
     },
     "52b23601-2276-4634-96c7-8b6e55596085": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00129376",
         "Statement": "A single patient in the primary trial experienced a clinically significant inflammation of the back of the throat.",
         "Label": "Entailment",
@@ -627,7 +627,7 @@
     },
     "15c83d26-f9ba-44cc-a920-6941781cdd8b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01427933",
         "Statement": "Neutropenia affected the majority of patients in cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -798,7 +798,7 @@
     },
     "2ed770a0-fe98-4029-9511-ad04a94a1a69": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00190671",
         "Secondary_id": "NCT00455533",
         "Statement": "In the primary trial cohort 2 had more patients with Leukopenia than cohort 1, whereas in the secondary trial cohort 1 had more than cohort 2. Cohort 1 of the primary trial had the highest proportion of patients with leukopenia.",
@@ -818,7 +818,7 @@
     },
     "b4c97206-66fd-468b-8388-fac076222c10": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00863655",
         "Statement": "There were 7 more cases of Anaemia and 1 more case of Disseminated intravascular coagulation in cohort 1 of the primary trial compared to cohort 2.",
         "Label": "Contradiction",
@@ -886,7 +886,7 @@
     },
     "7cbe445f-2df6-4a87-be6b-7ecc1e80b08b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00063570",
         "Statement": "None of the patients in cohort 1 of the primary trial had a platlet deficiency, and none of the patients in cohort 2 had Pyrexia.",
         "Label": "Contradiction",
@@ -923,7 +923,7 @@
     },
     "41cf791e-ed7a-48e5-af84-eefc9fa41ba7": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00503906",
         "Secondary_id": "NCT01142661",
         "Statement": "The adverse events in the primary trial where all equally prevalent, whereas in the secondary trial, alcohol poisoning was reported as the most common event.",
@@ -959,7 +959,7 @@
     },
     "d417aa7b-6d2c-46f8-812c-426ea60e0328": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00894504",
         "Statement": "There were only 3 adverse events in the primary trial which occurred more than twice.",
         "Label": "Contradiction",
@@ -1097,7 +1097,7 @@
     },
     "28e20650-e100-4e30-a319-5eceb69a979d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00509769",
         "Statement": "1 patient in the primary trial had toxic hepatitis.",
         "Label": "Entailment",
@@ -1164,7 +1164,7 @@
     },
     "27421e64-e9f0-42a9-8070-bdfb0ce4ce7c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00179309",
         "Statement": "There were 2 cases of severe back pain observed in the primary trial.",
         "Label": "Contradiction",
@@ -1195,7 +1195,7 @@
     },
     "c5e6497a-2e2f-4663-97fd-e73ba8904b0c": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01856543",
         "Secondary_id": "NCT00365599",
         "Statement": "Across all cohorts of the secondary trial and the primary trial there was only a single recorded case of Myocarditis and Thrombosis.",
@@ -1250,7 +1250,7 @@
     },
     "cfd93077-87c5-458b-8712-e1896929309d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00924352",
         "Statement": "One patient in the primary trial had abnormally low red blood cells, white blood cells, and platelets.",
         "Label": "Entailment",
@@ -1260,7 +1260,7 @@
     },
     "a3faaf85-62c6-430f-acf2-9c5992ee5221": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00503906",
         "Secondary_id": "NCT01142661",
         "Statement": "The adverse events in the primary trial where all equally prevalent, whereas in the secondary trial, progression of disease was reported as the most common event.",
@@ -1296,7 +1296,7 @@
     },
     "65e3afbb-70f6-4e1a-89e6-d819f8b95ab6": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01931163",
         "Secondary_id": "NCT00274469",
         "Statement": "Less than 5% of cohort 1 of the primary trial had High blood sugar, 0% of the secondary trial patients were recorded as having High blood sugar.",
@@ -1401,7 +1401,7 @@
     },
     "6a013bb4-0688-4f02-96c5-062f3ca67ae1": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00448279",
         "Statement": "In total there were 5x more adverse events in cohort 1 of the primary trial, than in cohort 2.",
         "Label": "Contradiction",
@@ -1530,7 +1530,7 @@
     },
     "682f5e80-75c4-4a36-9bc1-b389a98ad160": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00193037",
         "Statement": "None of the patients in Cohort 1 of the primary trial suffered from Hypotension.",
         "Label": "Entailment",
@@ -1571,7 +1571,7 @@
     },
     "348c9273-6aa1-43a8-840d-3cf080874669": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00934856",
         "Statement": "In total, across both cohorts of the primary trial, there were at least 2 patients with a fever.",
         "Label": "Entailment",
@@ -1771,7 +1771,7 @@
     },
     "a41bf7b0-9a09-4ce0-8832-f13758581f20": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01572727",
         "Statement": "Cohort 1 of the primary trial recorded more optical adversse events than cohort 2.",
         "Label": "Contradiction",
@@ -1806,7 +1806,7 @@
     },
     "5f2d2015-eaf9-45a8-9583-fddbc9807287": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00130533",
         "Statement": "Less than 0.25% of patients in cohort 1 of the primary trial suffered from Hyperbilirrubinemia.",
         "Label": "Entailment",
@@ -1894,7 +1894,7 @@
     },
     "8697a59e-0f1c-452a-b15a-6d24e2df387f": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00191815",
         "Secondary_id": "NCT01301729",
         "Statement": "None of the patients in the primary trial or the secondary trial committed suicide.",
@@ -1938,7 +1938,7 @@
     },
     "082ee581-f420-4892-b098-ce82c6ad0210": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00432172",
         "Statement": "All of the adverse events recorded in the primary trial were cardiac related.",
         "Label": "Contradiction",
@@ -2053,7 +2053,7 @@
     },
     "53d88010-e7d7-41c7-b20d-6328c8e507d1": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01498458",
         "Statement": "For some adverse event types in the primary trial, there were no recorded cases.",
         "Label": "Contradiction",
@@ -2068,7 +2068,7 @@
     },
     "8257bf5c-fae6-44c0-a86d-293746fdc468": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01416389",
         "Statement": "Cohort 1 of the primary trial had more cases of Hepatic encephalopathy and Pneumonia than cohort 2.",
         "Label": "Contradiction",
@@ -2248,7 +2248,7 @@
     },
     "9b0451fe-f760-46d3-b555-0a9b83546e73": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00087152",
         "Secondary_id": "NCT00203502",
         "Statement": "the primary trial recorded half as many patients vomiting as the secondary trial.",
@@ -2303,7 +2303,7 @@
     },
     "27acc6d7-c12d-4a38-9133-a5c8429dd264": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00656669",
         "Statement": "the primary trial recorded 23 adverse events.",
         "Label": "Contradiction",
@@ -2314,7 +2314,7 @@
     },
     "5919a080-2f0d-4c3b-9b03-10df80b2e680": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01007942",
         "Statement": "There were no adverse event in the primary trial which affected more than 10% of a particular patient cohort.",
         "Label": "Contradiction",
@@ -2355,7 +2355,7 @@
     },
     "d5ca2086-8404-42d1-bf45-5370f3d4e8e8": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02139358",
         "Secondary_id": "NCT02574455",
         "Statement": "There was 16.67% more cases of hemorrhaging in the primary trial than in the secondary trial.",
@@ -2445,7 +2445,7 @@
     },
     "82d6275a-97e6-4d13-84eb-5f7c2585db8b": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02132949",
         "Secondary_id": "NCT01111825",
         "Statement": "Between both of the patient cohorst of the primary trial and the secondary trial there was only a single patient who suffered heart failure.",
@@ -2760,7 +2760,7 @@
     },
     "8574ecd7-4da7-49b0-a273-de495bc1fee7": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00951665",
         "Statement": "Nausea and Death are two of the most common adverse events for patients in cohort 1 of the primary trial",
         "Label": "Entailment",
@@ -2782,7 +2782,7 @@
     },
     "01b82c51-dd3d-430b-9523-0e93a9eb9c1a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00950300",
         "Secondary_id": "NCT00615901",
         "Statement": "the primary trial recorded a multitude of patients with chest pain, whereas the secondary trial observed only one patient with abdominal pain.",
@@ -2798,7 +2798,7 @@
     },
     "93149dfc-667b-48d3-a46d-ad48b15e701f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00451555",
         "Statement": "Cohort 1 and 2 of the primary trial recorded exactly the same number of each type of adverse events.",
         "Label": "Entailment",
@@ -3134,7 +3134,7 @@
     },
     "6224d2de-c62b-4b43-8517-475eaa565491": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00811135",
         "Statement": "The majority of patients in the primary trial experienced at least one adverse event.",
         "Label": "Contradiction",
@@ -3145,7 +3145,7 @@
     },
     "95154c62-9f79-4d80-90fd-2f61612285b0": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01095003",
         "Secondary_id": "NCT01702571",
         "Statement": "In total more than 5 patients in the primary trial and the secondary trial experienced Earache.",
@@ -3207,7 +3207,7 @@
     },
     "2f6243a9-af40-426d-9a6a-a5c5708cf1b4": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00721630",
         "Secondary_id": "NCT00364611",
         "Statement": "the primary trial and the secondary trial recorded the exact same number of cases of nausea.",
@@ -3272,7 +3272,7 @@
     },
     "21cf4dfe-2cd7-4e60-943d-2f7e1266a80d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02630693",
         "Statement": "A 30% of patients in the primary trial suffered a life-threatening reaction to an infection.",
         "Label": "Contradiction",
@@ -3307,7 +3307,7 @@
     },
     "d72ecaae-c132-480c-af5e-87c58dd26082": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00679341",
         "Secondary_id": "NCT00201851",
         "Statement": "The only adverse event observed in Patients from both the secondary trial and the primary trial, was Endocervical cancer.",
@@ -3612,7 +3612,7 @@
     },
     "d905f4cb-32aa-41b8-8f61-40578d8ea9ae": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00274469",
         "Statement": "No less than 2 patients from either cohorts of the primary trial felt nauseous.",
         "Label": "Contradiction",
@@ -3625,7 +3625,7 @@
     },
     "45510043-7931-493b-8251-41b0be9aabbd": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00232505",
         "Statement": "There were 2 instances of patients with Atrial tachycardia in the primary trial.",
         "Label": "Contradiction",
@@ -3650,7 +3650,7 @@
     },
     "e7037f34-bd2e-402e-a19c-48073781885a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00193037",
         "Statement": "10 of the patients in Cohort 1 of the primary trial suffered from Hypotension.",
         "Label": "Contradiction",
@@ -3784,7 +3784,7 @@
     },
     "a1c99d5b-d53a-4195-ad5f-5e1b48c22078": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03176238",
         "Secondary_id": "NCT01498458",
         "Statement": "Although there is a much higher percentage of patients with Thrombocytopenia in the secondary trial than in cohort 1 of the primary trial, no robust comparisons can be made due to the significant differences in cohort sizes.",
@@ -3814,7 +3814,7 @@
     },
     "e6388dc2-b096-467d-8b70-fd5346dd581a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00083174",
         "Secondary_id": "NCT00190671",
         "Statement": "The highest number of occurences for any adverse event in both the primary trial and the secondary trial was 2.",
@@ -3899,7 +3899,7 @@
     },
     "0b9aa7e8-5912-44db-b9b0-6a84df769e19": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00545688",
         "Statement": "There were no patients with paranasal sinus reactions in the primary trial.",
         "Label": "Entailment",
@@ -3967,7 +3967,7 @@
     },
     "0a17a404-ed1d-4c31-a192-509b68198ea8": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00717405",
         "Statement": "There was a dental adverse event in the primary trial.",
         "Label": "Entailment",
@@ -4055,7 +4055,7 @@
     },
     "2ec46285-dd0c-4420-b9f6-e44a1ac74f20": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01752907",
         "Secondary_id": "NCT01940497",
         "Statement": "There were 0 observed cases of Tibia or Fibula fractures in the primary trial or the secondary trial.",
@@ -4177,7 +4177,7 @@
     },
     "b86f0f3c-7905-470d-ae5d-e1867eb8bd3b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00917735",
         "Statement": "One patient in cohort 2 of the primary trial crashed their motorbike.",
         "Label": "Entailment",
@@ -4197,7 +4197,7 @@
     },
     "0aa3c085-b9c6-4918-a5d0-eabc55bdd177": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01560416",
         "Statement": "There was over 10 more cases of adverse events in cohort 2 than in cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -4210,7 +4210,7 @@
     },
     "333c2723-e2e8-4c68-9591-36b7f169ff26": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00828074",
         "Statement": "A higher percentage of cohort 1 of the primary trial showed signs of fever, compared to cohort 2.",
         "Label": "Entailment",
@@ -4242,7 +4242,7 @@
     },
     "ed272c3f-37a1-4db7-8990-bf226f8c9822": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02049957",
         "Secondary_id": "NCT01506609",
         "Statement": "There is the same number of cases of Diplopia in the primary trial as anemia in the secondary trial.",
@@ -4518,7 +4518,7 @@
     },
     "46d65581-7a0a-423b-907e-662c1f5843cc": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01127763",
         "Statement": "There were 4% more cases (1 more case) of Dyspnea than Dehydration in the primary trial.",
         "Label": "Entailment",
@@ -4568,7 +4568,7 @@
     },
     "932728c5-2e7f-401f-be64-e90597ff2ce2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00129935",
         "Statement": "There were more cases of embolisms in cohort 2 of the primary trial than cohort 1.",
         "Label": "Entailment",
@@ -4716,7 +4716,7 @@
     },
     "6c3427a8-27a1-459c-9fbc-175649210868": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01940497",
         "Statement": "There were more allergic reactions observed in cohort 1 of the primary trial than cohort 2.",
         "Label": "Entailment",
@@ -4763,7 +4763,7 @@
     },
     "8720143a-2611-4502-a5ee-da4e641df918": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02402764",
         "Secondary_id": "NCT00490646",
         "Statement": "There were no cases of extravasation in either the primary trial or the secondary trial.",
@@ -4824,7 +4824,7 @@
     },
     "e7eae332-6b6a-41e0-aa31-86a781fd373f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01273896",
         "Statement": "There was twice as many Cardiac adverse events as cases of Dyspnea in cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -4927,7 +4927,7 @@
     },
     "7f49cafd-3a27-4fc8-872d-914b9176442e": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01427933",
         "Statement": "Neutropenia was the most common adverse event for patients in cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -4950,7 +4950,7 @@
     },
     "2e84c5ba-2de9-42a1-8e75-44f6d5e9ef25": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01998906",
         "Statement": "The same number of cases of Neutropenia and Pancytopenia are observed in patients from cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -5006,7 +5006,7 @@
     },
     "e2d8e4b2-d5dc-404c-98a5-2a6799dd29c1": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01565499",
         "Secondary_id": "NCT01234402",
         "Statement": "None of the patients in the primary trial were recorded as having heart related adverse events, whereas many patients in the secondary trial experienced several different heart related issues.",
@@ -5099,7 +5099,7 @@
     },
     "59fd53e4-b38c-4018-bafc-6fd7f7becebe": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00546104",
         "Statement": "1 patient in the primary trial suffered from a blood clot blocking their blood vessels.",
         "Label": "Entailment",
@@ -5124,7 +5124,7 @@
     },
     "c17eaeab-4e99-4cc4-8681-ae6ccddba572": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01926886",
         "Statement": "There were no cases of Cellulitis, Nausea or Anaemia in the primary trial.",
         "Label": "Entailment",
@@ -5153,7 +5153,7 @@
     },
     "021e79d2-ce70-43cf-aac9-fa8d4c8d3770": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00193063",
         "Statement": "In the primary trial patient cohort, 3 different types of infections are observed, these are pneumonia, urinary tract and Athlete's foot.",
         "Label": "Contradiction",
@@ -5206,7 +5206,7 @@
     },
     "71daae7c-3ee5-4451-91e2-273d8ff55aae": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00617942",
         "Secondary_id": "NCT00388726",
         "Statement": "the secondary trial had a lower total number of patients experiencing adverse events compared to the primary trial.",
@@ -5222,7 +5222,7 @@
     },
     "4a14a8f4-c9c2-4aa2-85bc-caa1f9820e37": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00203502",
         "Statement": "Every single patient in the primary trial experienced at least 1 adverse event.",
         "Label": "Entailment",
@@ -5233,7 +5233,7 @@
     },
     "7d22937b-9823-45fa-a914-261f993e4d64": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01644890",
         "Statement": "Throughout the primary trial, one patient developed issues with their vision.",
         "Label": "Entailment",
@@ -5268,7 +5268,7 @@
     },
     "507a4189-4905-4752-8348-d715a5ce3962": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01940497",
         "Statement": "There were 3 more allergic reactions observed in cohort 1 of the primary trial than cohort 2.",
         "Label": "Contradiction",
@@ -5347,7 +5347,7 @@
     },
     "4b893eeb-80a4-4a83-8df5-b5c668ce55b1": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00796978",
         "Secondary_id": "NCT01276041",
         "Statement": "More patients in the secondary trial suffered from oedema in their limbs, compared to patients in the primary trial.",
@@ -5383,7 +5383,7 @@
     },
     "44cd16f5-6638-4d82-9121-1941eb8ce4b5": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00448279",
         "Statement": "In total there were more adverse events in cohort 1 of the primary trial, than in cohort 2.",
         "Label": "Entailment",
@@ -5455,7 +5455,7 @@
     },
     "d2961e96-bd3b-4994-aa7e-2b310eb6204e": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01300351",
         "Statement": "At least 1 participant in the primary trial showed signs of poor liver function.",
         "Label": "Entailment",
@@ -5478,7 +5478,7 @@
     },
     "512990dd-45d2-4b31-b571-66735ff02308": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00394251",
         "Statement": "There were 4 different adverse events, for which 0 cases were recorded in cohort 1.",
         "Label": "Entailment",
@@ -5500,7 +5500,7 @@
     },
     "383db144-4bcd-4ebc-989c-b6ae7d282026": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00471276",
         "Secondary_id": "NCT00951665",
         "Statement": "Gastrointestinal haemorrhage was more common in patients from cohort 2 of the secondary trial. than cohort 1 of the primary trial .",
@@ -5538,7 +5538,7 @@
     },
     "bfa07fb7-f8cb-4215-9bca-ddee8b3bea73": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00951665",
         "Statement": "Most patients in cohort 1 of the primary trial died of unknown causes.",
         "Label": "Contradiction",
@@ -5662,7 +5662,7 @@
     },
     "19106207-4fa2-4cc4-8e22-6e5330bf05ce": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00846027",
         "Statement": "None of the adverse events recorded for the primary trial occurred more than once.",
         "Label": "Entailment",
@@ -5721,7 +5721,7 @@
     },
     "405369ef-d216-4d81-a04f-46f36f466a19": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01416389",
         "Statement": "Cohort 1 of the primary trial had more cases of urinary infections and lumbar fractures than cohort 2.",
         "Label": "Entailment",
@@ -5736,7 +5736,7 @@
     },
     "e424c65e-7c6f-43a4-95e4-6beb705d9903": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00559754",
         "Secondary_id": "NCT02924883",
         "Statement": "A higher percent of patients in cohort 1 of the secondary trial experienced stomatitis, than in cohort 1 of the primary trial.",
@@ -5816,7 +5816,7 @@
     },
     "2687b547-c225-4838-bbcd-99212a74d815": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01828021",
         "Secondary_id": "NCT01326481",
         "Statement": "Patients in the primary trial and the secondary trial did not have any of the same adverse events.",
@@ -5848,7 +5848,7 @@
     },
     "fadf7710-6e4d-49d6-82fc-4f3137b5e26b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00759785",
         "Statement": "Only one adverse event is observed in patients from cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -5863,7 +5863,7 @@
     },
     "8c4e6f36-37b4-4bde-b518-08a6dc55f7a5": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00074152",
         "Statement": "All of the adverse event cases in the primary trial occurred in patients from cohort 2.",
         "Label": "Entailment",
@@ -5921,7 +5921,7 @@
     },
     "3a80ba8a-265f-4931-a9a8-b7e00e372599": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00432172",
         "Statement": "All of the adverse events recorded in the primary trial occurred in patients from cohort 1.",
         "Label": "Entailment",
@@ -5975,7 +5975,7 @@
     },
     "5d2542fa-5482-4aff-af29-80875a0a9dcc": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01015131",
         "Secondary_id": "NCT00312208",
         "Statement": "the primary trial records instances of Rectal Hemorrhage within its patient cohort, whereas the secondary trial records Vaginal hemorrhages.",
@@ -6147,7 +6147,7 @@
     },
     "456c6011-52bb-4c8b-9e82-e5a85cbbe0e3": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00493649",
         "Secondary_id": "NCT01201265",
         "Statement": "There was 1 MRSA infection in cohort 1 of the secondary trial and 4 in cohort 2 of the primary trial.",
@@ -6198,7 +6198,7 @@
     },
     "b3bd3522-8731-448a-bade-a5a350697a98": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01421472",
         "Statement": "Over 9 patients in the primary trial suffered from adverse events associated with a low number of white blood cells present in the bloodstream.",
         "Label": "Contradiction",
@@ -6257,7 +6257,7 @@
     },
     "0a156ee2-eb90-40d2-9802-27b9b4a42ff3": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00191789",
         "Statement": "In cohort 2 and 3 of the primary trial there was only case 1 of jaundice.",
         "Label": "Contradiction",
@@ -6280,7 +6280,7 @@
     },
     "82895f11-37bf-4d03-8de2-84818d93cce0": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00266110",
         "Secondary_id": "NCT00879086",
         "Statement": "the primary trial and the secondary trial have entirely different adverse event reports.",
@@ -6325,7 +6325,7 @@
     },
     "f94643de-7122-4a58-972d-b0bb7e59d441": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00878709",
         "Secondary_id": "NCT02447003",
         "Statement": "the primary trial had a total of 3 patients experiencing Pancreatic Cancer, the secondary trial had 0.",
@@ -6484,7 +6484,7 @@
     },
     "bcf433b6-4029-4d00-9ccf-d8d94f1722d8": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00365365",
         "Secondary_id": "NCT00005908",
         "Statement": "the primary trial and the secondary trial only recorded one type of acute adverse event.",
@@ -6538,7 +6538,7 @@
     },
     "58ccfd13-aa6d-4604-bf3d-c69270fe50d2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01276041",
         "Statement": "1 patient in the primary trial died in an event not associated with a specifc CTCAE term.",
         "Label": "Entailment",
@@ -6561,7 +6561,7 @@
     },
     "a6e4f4f3-72cc-4617-bf8b-7eac1c8b8249": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00182793",
         "Secondary_id": "NCT00509769",
         "Statement": "The majority of patients in the primary trial and the secondary trial experienced an adverse event.",
@@ -6599,7 +6599,7 @@
     },
     "7b48355e-3b9c-4cca-b7fa-1cbd612d1523": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00320710",
         "Statement": "There was no adverse event in cohort 2 of the primary trial which occurred in more than 5% of patients.",
         "Label": "Entailment",
@@ -6661,7 +6661,7 @@
     },
     "6173faf3-f845-4cf1-94a9-756d1bff48bb": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01419197",
         "Statement": "There was one patient in the primary trial who suffered from a significant decrease in the number of granulocytes in their blood.",
         "Label": "Contradiction",
@@ -6793,7 +6793,7 @@
     },
     "54a459cf-f01a-4abc-a8cf-0efebc01c694": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02019277",
         "Secondary_id": "NCT00863655",
         "Statement": "the primary trial and the secondary trial recorded none of the same types of adverse events",
@@ -6919,7 +6919,7 @@
     },
     "4546c169-cc5c-4e03-bcce-31d491ed18e0": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01989676",
         "Statement": "the primary trial only records cardiovasuclar adverse events.",
         "Label": "Entailment",
@@ -6993,7 +6993,7 @@
     },
     "9c00b318-0a3a-43c9-a6cd-2983c07be393": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00232505",
         "Statement": "There were no instances of patients with abnormal heart rates in the primary trial.",
         "Label": "Entailment",
@@ -7064,7 +7064,7 @@
     },
     "3c4d9ab0-5e16-48b3-96d4-ae9d337b2822": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01332630",
         "Secondary_id": "NCT00121134",
         "Statement": "There were more patients with hypotension in cohort 1 of the primary trial, than in cohort 1 of the secondary trial.",
@@ -7195,7 +7195,7 @@
     },
     "78894316-fc7d-4d61-a2d4-9ea369bfce20": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02273973",
         "Statement": "Twice as many patients in cohort 1 of the primary trial suffered from Erysipelas than Bacterial diarrhoea.",
         "Label": "Entailment",
@@ -7207,7 +7207,7 @@
     },
     "889e6622-1614-4f6c-a47c-e7caad6e154f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00879086",
         "Statement": "Cohort 1 and 2 of the primary trial had the same number of patients with anaemia and Neutropenia, but Cohort 1 had 1 more case of Leukopenia than cohort 2.",
         "Label": "Entailment",
@@ -7263,7 +7263,7 @@
     },
     "eee75423-9a61-4a57-8baf-8f91b9562486": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01705691",
         "Statement": "The majority of patients in the primary trial suffered from Kidney stones.",
         "Label": "Contradiction",
@@ -7417,7 +7417,7 @@
     },
     "a7232387-b266-4bfb-8df8-ca9789188500": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00490646",
         "Statement": "Cohort 1 of the primary trial had 25% more patients experiencing adverse events than cohort 2.",
         "Label": "Entailment",
@@ -7516,7 +7516,7 @@
     },
     "8befa03f-c3da-4950-8d27-491ea06b51ed": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00885755",
         "Secondary_id": "NCT01075100",
         "Statement": "Patients' appetites were not affected in the primary trial, but at least one was affected in the secondary trial.",
@@ -7596,7 +7596,7 @@
     },
     "a2b25229-c003-49c3-8b0b-94b68f756d3c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00468585",
         "Statement": "the primary trial did not record any skin infections in their patients.",
         "Label": "Entailment",
@@ -7656,7 +7656,7 @@
     },
     "c7151ad6-bcac-48e1-ba1e-e6f56a043804": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01086605",
         "Secondary_id": "NCT00570921",
         "Statement": "the primary trial and the secondary trial both record cases of Cholecystitis.",
@@ -7697,7 +7697,7 @@
     },
     "4f71e33c-4f0f-4952-bb03-52402be5f9f4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02015676",
         "Statement": "There is 1 case (1.45%) of thrombocytopenia in the primary trial.",
         "Label": "Contradiction",
@@ -7842,7 +7842,7 @@
     },
     "19c0b2c7-e45c-4740-b25d-f6e738b59893": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01764022",
         "Statement": "Cohort 2 of the primary trial recorded 1 incident of thrombocytopenia.",
         "Label": "Entailment",
@@ -7853,7 +7853,7 @@
     },
     "7bcfca9e-1b09-45d4-8165-cb6ac96b8815": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02896855",
         "Secondary_id": "NCT00171314",
         "Statement": "the secondary trial recorded more total occurences of gastrointestinal adverse events than the primary trial.",
@@ -7915,7 +7915,7 @@
     },
     "e3a8be03-20e4-460d-9ebc-f958a515ac45": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01095003",
         "Statement": "Less than 5 patients in the primary trial experienced Earache.",
         "Label": "Entailment",
@@ -8017,7 +8017,7 @@
     },
     "efd37946-54f3-4813-b63d-6d7df6123677": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02630693",
         "Statement": "A total of 3 patients in the primary trial suffered a life-threatening reaction to an infection.",
         "Label": "Entailment",
@@ -8105,7 +8105,7 @@
     },
     "d446920a-2b8e-4452-b9f2-17d2771dbb07": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00075764",
         "Statement": "The most common adverse event in cohort 1 of the primary trial is Neutropenia.",
         "Label": "Contradiction",
@@ -8124,7 +8124,7 @@
     },
     "aa710138-bf2a-4a7f-8014-4513fa1f448b": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01269346",
         "Secondary_id": "NCT01597193",
         "Statement": "Cohort 1 of the primary trial and Cohort 1 of the secondary trial both have less than 30% occurrence of adverse events.",
@@ -8182,7 +8182,7 @@
     },
     "6a71c114-2e38-4d57-8f8b-8252d9c62cbe": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01491737",
         "Statement": "There were 4 cases of Febrile neutropenia in cohort 1 of the primary trial, and 0 cases of heart failure.",
         "Label": "Entailment",
@@ -8213,7 +8213,7 @@
     },
     "d605b820-2915-4b19-b9cd-ca7850645f83": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00357110",
         "Statement": "Only 6 patients in cohort 1 of the primary trial had Varicose Veins.",
         "Label": "Contradiction",
@@ -8288,7 +8288,7 @@
     },
     "4606f64f-64cc-4d73-a8be-75701c97008d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00024102",
         "Statement": "A patient in cohort 2 of the primary trial received a Plasma transfusion.",
         "Label": "Contradiction",
@@ -8387,7 +8387,7 @@
     },
     "1a271e29-477b-4819-a472-5c7c7df99e70": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00265759",
         "Secondary_id": "NCT00866905",
         "Statement": "2 cases of hematolysis were recorded in the primary trial, none in the secondary trial.",
@@ -8433,7 +8433,7 @@
     },
     "060e833e-384f-48f0-8e56-ebd95f55f221": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01926886",
         "Statement": "There were no cases of Cellulitis, Vertigo or Anaemia in the primary trial.",
         "Label": "Contradiction",
@@ -8448,7 +8448,7 @@
     },
     "ac193d32-156e-48bf-bc6b-d613691f869c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01166763",
         "Statement": "the primary trial only recorded three types of adverse events.",
         "Label": "Entailment",
@@ -8518,7 +8518,7 @@
     },
     "6036d341-9c6a-49fc-a2f4-19c0e2399f4c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01565083",
         "Statement": "There were significantly more cases of ventricular tachycardia than Supraventricular tachycardia in cohort 2 of the primary trial.",
         "Label": "Contradiction",
@@ -8563,7 +8563,7 @@
     },
     "99855d11-e2e4-4a0e-b40e-2264ff128ac5": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02502864",
         "Statement": "the primary trial recorded the same number of occurences for every type of adverse event.",
         "Label": "Entailment",
@@ -8622,7 +8622,7 @@
     },
     "064b39e9-e9d8-4c51-a76a-ad150bb127f1": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00878709",
         "Secondary_id": "NCT02447003",
         "Statement": "the primary trial had a total of 3 patients experiencing pancreas related adverse events, the secondary trial had 0.",
@@ -8711,7 +8711,7 @@
     },
     "78c60212-28f7-4306-9f63-549be04687b2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00448591",
         "Statement": "Only two types of adverse events, Leukopenia and Anaemia, occurred in more than 1% of patient in cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -8848,7 +8848,7 @@
     },
     "02158762-9490-46a1-b494-0589885fd4ce": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00281697",
         "Statement": "the primary trial does not record any cardiac related adverse events.",
         "Label": "Contradiction",
@@ -8881,7 +8881,7 @@
     },
     "c0a8e1a0-cbe6-4240-b578-59afa4d6cf23": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00217672",
         "Secondary_id": "NCT00110084",
         "Statement": "the primary trial had a higher occurrence rate of fistula enterovesical than the secondary trial.",
@@ -8970,7 +8970,7 @@
     },
     "bd51e2f7-05a6-4d1a-b6eb-4f6426eec3d8": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00777049",
         "Statement": "All 4 of the CHF cases in the primary trial, were in cohort 1.",
         "Label": "Contradiction",
@@ -8983,7 +8983,7 @@
     },
     "78a5162d-140a-4631-b776-5c284446b5ec": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02366130",
         "Secondary_id": "NCT01262027",
         "Statement": "the primary trial and the secondary trial have entirely different adverse event profiles.",
@@ -9013,7 +9013,7 @@
     },
     "633ef768-9e9b-4336-9142-8d4ce7ee2342": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01026142",
         "Secondary_id": "NCT00846027",
         "Statement": "There were 10x more patients with Left ventricular systolic dysfunction in the primary trial than in the secondary trial.",
@@ -9071,7 +9071,7 @@
     },
     "a70cc8e5-0ef5-4045-8fec-d9e7503b5e6e": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00615901",
         "Secondary_id": "NCT00829166",
         "Statement": "the primary trial recorded many more seizures than the secondary trial, despite having less than one tenth the number of patients in its total cohort.",
@@ -9153,7 +9153,7 @@
     },
     "27160f45-e4cb-48be-8cf2-c23ced4578c0": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00003830",
         "Statement": "The most common adverse event in both cohorts of the primary trial was Anaphylaxis, which affected more than 10 patients in total.",
         "Label": "Contradiction",
@@ -9224,7 +9224,7 @@
     },
     "c7df7b38-068b-48a8-b805-b8ebb3e854e6": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01086605",
         "Secondary_id": "NCT00570921",
         "Statement": "the primary trial and the secondary trial do not record any of the same adverse events.",
@@ -9330,7 +9330,7 @@
     },
     "026e7eb7-37fd-4aae-b74f-dacf905db262": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02366130",
         "Secondary_id": "NCT01262027",
         "Statement": "the primary trial reported more than 10 times the number of patients experiencing adverse events as the secondary trial .",
@@ -9384,7 +9384,7 @@
     },
     "7a9fa9d8-8b71-4df3-918f-0f8e8ecb4b0a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00574587",
         "Secondary_id": "NCT00777049",
         "Statement": "There were no cases of cardiac tamponade in the primary trial or the secondary trial.",
@@ -9457,7 +9457,7 @@
     },
     "56cd4492-3884-4b2a-a000-7c859d86f6f5": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00284180",
         "Statement": "Across both cohorts of the primary trial a total of two patients had low levels of oxygen in their body tissues.",
         "Label": "Entailment",
@@ -9494,7 +9494,7 @@
     },
     "08b79e0d-5e97-45fb-ac83-0096b56f714b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01492101",
         "Statement": "less than 1% of either cohort of the primary trial was effect by either Pancytopenia or Coagulopathy.",
         "Label": "Entailment",
@@ -9584,7 +9584,7 @@
     },
     "78ae19aa-6e26-4f9a-b381-cd77d92e4ecb": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03066947",
         "Statement": "At least one patient in the primary trial suffered from Gastroesophageal reflux disease.",
         "Label": "Entailment",
@@ -9667,7 +9667,7 @@
     },
     "fb85a3a5-b9a1-48f4-84f3-2e2307e2f104": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01752907",
         "Statement": "There were 0 observed cases of Tibia or Fibula fractures in the primary trial.",
         "Label": "Entailment",
@@ -9702,7 +9702,7 @@
     },
     "b98c7a50-ed79-41ff-9733-fff143f630be": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01901146",
         "Secondary_id": "NCT00209092",
         "Statement": "Cohort 1 of the primary trial recorded the same number of instances of Neutropenic fever as Cohort 1 of the secondary trial.",
@@ -9776,7 +9776,7 @@
     },
     "1739541a-2d3f-4a13-b956-769a1cbed4d7": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00871858",
         "Statement": "1 patient in cohort 1 of the primary trial was diagnosed with a Clear cell renal cell carcinoma.",
         "Label": "Contradiction",
@@ -9799,7 +9799,7 @@
     },
     "c8f401a0-5e7d-4fd9-b31e-0866c9bee6a9": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02187744",
         "Statement": "One patient in the primary trial suffered from sepsis, due to the presence of an implanted device.",
         "Label": "Entailment",
@@ -9868,7 +9868,7 @@
     },
     "b3cee7a6-cec1-4676-974d-7cfb3ccd9919": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00127933",
         "Secondary_id": "NCT00191789",
         "Statement": "the primary trial recorded one patient with a catheter-related complication, whereas in the secondary trial none where observed.",
@@ -10129,7 +10129,7 @@
     },
     "c54dc963-671a-4384-8b1f-d8058a832131": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00545688",
         "Statement": "There were no patients with paranasal sinus reactions, or Left ventricular dysfunction in the primary trial.",
         "Label": "Contradiction",
@@ -10160,7 +10160,7 @@
     },
     "a4c62782-9f4c-4cf5-96b3-eb8e9098a3b4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02340221",
         "Statement": "A total of 32 patients in the primary trial had Diarrhoea.",
         "Label": "Entailment",
@@ -10195,7 +10195,7 @@
     },
     "91adb350-ab20-41a6-944d-c13b55cf33f2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00014222",
         "Statement": "Cohort one of the primary trial reported 2/680 patients experiecing eye-related adverse events, whereas cohort two recorded none.",
         "Label": "Entailment",
@@ -10668,7 +10668,7 @@
     },
     "17881072-2517-483f-9c03-1edad21a58cf": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01008150",
         "Secondary_id": "NCT00375427",
         "Statement": "In total the secondary trial recorded only 3 more cases of Pyrexia than the primary trial.",
@@ -10747,7 +10747,7 @@
     },
     "da6ce3a9-b653-47b2-9271-f831e4de3f19": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00912340",
         "Statement": "Less patients in cohort 2 of the primary trial had an unusual amount of fluid around the lungs than in cohort 1.",
         "Label": "Contradiction",
@@ -10760,7 +10760,7 @@
     },
     "66979ae5-a709-4adf-9067-287f0f92b9e2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00828074",
         "Statement": "A higher number of cohort 2 participants from the primary trial experienced fever, compared to cohort 1.",
         "Label": "Contradiction",
@@ -10835,7 +10835,7 @@
     },
     "9a896e4a-ae6b-468c-a7c0-32c1514c0b48": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00107276",
         "Secondary_id": "NCT00232505",
         "Statement": "Less than 5% of patients undergoing the intervention in the primary trial had adverse events, in comparison almost 10% patients in cohort 1 of the secondary trial  experienced an adverse event, and more than 30% of those in cohort 2 of the secondary trial had adverse events.",
@@ -10956,7 +10956,7 @@
     },
     "f1a45b47-498d-45c8-b6d9-6c8f035da30b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01201265",
         "Statement": "1 patient in the primary trial was affected by Sepsis.",
         "Label": "Entailment",
@@ -10978,7 +10978,7 @@
     },
     "a5272c37-0e32-42db-a44a-d17df7bd70ff": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00179309",
         "Statement": "There were no pain related adverse events observed in the primary trial.",
         "Label": "Entailment",
@@ -11261,7 +11261,7 @@
     },
     "196c2132-c735-4b79-bf03-3a830fcaf0fc": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00645333",
         "Secondary_id": "NCT00006110",
         "Statement": "the primary trial records several central nervous system related adverse events in its patients, whereas the secondary trial does not.",
@@ -11284,7 +11284,7 @@
     },
     "72619b0a-57c2-465c-8428-72019b59f8ae": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02924883",
         "Statement": "In the primary trial, all cases of  Enteritis, Vertigo and Cardiac failure occurred in cohort 2.",
         "Label": "Entailment",
@@ -11386,7 +11386,7 @@
     },
     "949d79e0-95db-47a2-802a-6280c0255923": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02132949",
         "Secondary_id": "NCT01111825",
         "Statement": "Between both of the patient cohorts of the primary trial and the secondary trial there was only a single patient with a deficiency of granulocytes in the blood.",
@@ -11454,7 +11454,7 @@
     },
     "6e080a1e-a03e-4547-a7c4-c9d5a80de977": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01325207",
         "Secondary_id": "NCT02429427",
         "Statement": "Patients participating in the primary trial and the secondary trial experienced serious eye disorders.",
@@ -11565,7 +11565,7 @@
     },
     "3cd79df2-e6dd-41dd-b819-4d993b5f7aed": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00403130",
         "Statement": "There were no cases of Leukopenia, Epitasis or Arrhythmia observed in patients participating in the primary trial.",
         "Label": "Contradiction",
@@ -11696,7 +11696,7 @@
     },
     "50d119f6-a657-4619-918e-7617ac57f052": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03078751",
         "Statement": "Cohort 1 of the primary trial reported one case of AML.",
         "Label": "Entailment",
@@ -11826,7 +11826,7 @@
     },
     "29d5779b-c228-4b82-9ca8-075beadae879": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00091442",
         "Statement": "There were more cases of Febrile neutropenia than eukopenia observed in the primary trial, but less cases of Febrile neutropenia than Neutropenia.",
         "Label": "Entailment",
@@ -11866,7 +11866,7 @@
     },
     "f4c7dae5-012f-4f05-b5ba-da072fe1359c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01674062",
         "Statement": "One patient in the primary trial was observed suffering from Enteritis.",
         "Label": "Contradiction",
@@ -11912,7 +11912,7 @@
     },
     "80a5cdbc-0721-41b6-af1a-28e3f46557ce": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01610284",
         "Statement": "1 patient in the primary trial had a cardiac related adverse event.",
         "Label": "Contradiction",
@@ -11945,7 +11945,7 @@
     },
     "af710d36-8062-4412-8d11-1c57a14b5e5a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00217672",
         "Secondary_id": "NCT00110084",
         "Statement": "the primary trial had three times the occurence rate of fistula enterovesical as the secondary trial.",
@@ -11974,7 +11974,7 @@
     },
     "c91c7dc1-17b7-4475-9aec-38999a18a306": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00717405",
         "Statement": "There were several patients who contracted Pneumonia in the primary trial.",
         "Label": "Contradiction",
@@ -11996,7 +11996,7 @@
     },
     "5357ce66-7f7b-4ffd-926c-f6116f5a2e20": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00243503",
         "Secondary_id": "NCT00448279",
         "Statement": "the primary trial and the secondary trial observed a different number of adverse events in their patients.",
@@ -12036,7 +12036,7 @@
     },
     "2c53e14a-719c-4994-9090-73f9bddb60ba": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00615901",
         "Secondary_id": "NCT00829166",
         "Statement": "the primary trial recorded more seizures than the secondary trial, despite having less than one tenth the number of patients in its total cohort.",
@@ -12140,7 +12140,7 @@
     },
     "18fcd396-cb03-4e80-bb2d-ee03c12ba32a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00455533",
         "Secondary_id": "NCT00767520",
         "Statement": "Throughout both the secondary trial and the primary trial there was only one case of pregnancy, in cohort 1 of the secondary trial.",
@@ -12259,7 +12259,7 @@
     },
     "23df2cc2-6aae-4251-a8a7-e2f5a65f176a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02149524",
         "Statement": "None of the adverse events which occurred in the primary trial were not GI related.",
         "Label": "Contradiction",
@@ -12335,7 +12335,7 @@
     },
     "843778c6-a320-49a1-93a0-5dc6239b822a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00965523",
         "Statement": "The most common adverse events in the primary trial where Infection and Stomatitis.",
         "Label": "Entailment",
@@ -12360,7 +12360,7 @@
     },
     "a5486f80-69e5-4a5a-8435-f82f39cddf85": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00080301",
         "Statement": "There were 2 more cases of Gastrointestinal Haemorrhage in cohort 2 of the primary trial, than in cohort 1.",
         "Label": "Contradiction",
@@ -12395,7 +12395,7 @@
     },
     "c2c60b25-f255-48ba-bcb7-2bcd2de4315d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00171314",
         "Statement": "There are four types of adverse events in the primary trial, for which no occurences are recorded.",
         "Label": "Entailment",
@@ -12479,7 +12479,7 @@
     },
     "fcb195de-2143-44d8-8c46-136104554e2d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01492101",
         "Statement": "There less than 1% of either cohort of the primary trial was effect by Pancytopenia, but just over 5% of cohort 1 patients suffered from Coagulopathy.",
         "Label": "Contradiction",
@@ -12524,7 +12524,7 @@
     },
     "a289f67c-ff56-44a9-b3da-152fb0d20271": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01301729",
         "Secondary_id": "NCT02129556",
         "Statement": "Only 1 respiratory adverse event was recorded across the duration of both the secondary trial and the primary trial.",
@@ -12626,7 +12626,7 @@
     },
     "f5477a02-dde7-44c8-80b5-2cdb9fa66f23": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01234337",
         "Secondary_id": "NCT00217672",
         "Statement": "More than 2 cases of Anaphylaxis occurred in either the primary trial or the secondary trial.",
@@ -12854,7 +12854,7 @@
     },
     "943ff737-4edd-4dbd-a3c9-213e3e0234d8": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00423917",
         "Secondary_id": "NCT00082641",
         "Statement": "the primary trial and the secondary trial both report cases of confusion in their patient cohorts.",
@@ -12961,7 +12961,7 @@
     },
     "6b35c306-a699-44f2-8606-a58d58fc18f3": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00728949",
         "Statement": "There were 6 adverse event categories for cohort 1 of the primary trial which recorded at least three cases.",
         "Label": "Contradiction",
@@ -13057,7 +13057,7 @@
     },
     "9436e18a-a055-41c3-980f-bf451b4da7ee": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00171314",
         "Statement": "There are four types of adverse events in the primary trial, for which one occurence is recorded.",
         "Label": "Contradiction",
@@ -13078,7 +13078,7 @@
     },
     "f57403d9-7278-481e-bcb9-066bf31b6158": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01201265",
         "Secondary_id": "NCT00932373",
         "Statement": "1 patient in the primary trial was affected by Sepsis, and several were affected in the secondary trial.",
@@ -13133,7 +13133,7 @@
     },
     "ec601f6b-6ce3-4df7-b7b3-fbde1a241e93": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00688909",
         "Secondary_id": "NCT00129376",
         "Statement": "Patients in the primary trial and the secondary trial did not suffer from any of the same adverse events.",
@@ -13235,7 +13235,7 @@
     },
     "412b2743-8f76-494a-af97-f7bf9541a890": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02536339",
         "Secondary_id": "NCT00371345",
         "Statement": "At least one type of respiratory illness was observed in patients from both the primary trial and the secondary trial.",
@@ -13267,7 +13267,7 @@
     },
     "e1fa68ac-42b4-4223-a362-a89c43562e06": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01256567",
         "Secondary_id": "NCT01926886",
         "Statement": "The most common adverse event in the primary trial was Febrile neutropenia (14.29%), whereas in the secondary trial it was a decrease in Ejection fraction (4.95%).",
@@ -13294,7 +13294,7 @@
     },
     "6f5570c0-4114-47ee-9611-b2e4be91cf9a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03165955",
         "Secondary_id": "NCT00912340",
         "Statement": "2 patients in the primary trial suffer from DVT, 0 in the secondary trial.",
@@ -13512,7 +13512,7 @@
     },
     "5a4018ea-5d00-4d44-bfa3-a1dfb341b9e5": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00193206",
         "Statement": "the primary trial records a total of 7 different types of infections.",
         "Label": "Contradiction",
@@ -13627,7 +13627,7 @@
     },
     "8ddf49c7-316e-4c7c-b2dd-423182a37612": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00455533",
         "Secondary_id": "NCT00767520",
         "Statement": "Throughout both the secondary trial and the primary trial there was only one case of sudden and unexpected death, in cohort 1 of the secondary trial.",
@@ -13689,7 +13689,7 @@
     },
     "d9e41be5-1e37-4dff-b51a-166576f351d0": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01498458",
         "Statement": "For all adverse event types in the primary trial, at least one case was recorded.",
         "Label": "Entailment",
@@ -13704,7 +13704,7 @@
     },
     "ee2287bd-af76-4232-9575-d371fe3257dc": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00544167",
         "Statement": "Every adverse event in the primary trial occurred once.",
         "Label": "Entailment",
@@ -13771,7 +13771,7 @@
     },
     "5b1915da-1819-4504-81bd-3f44a83b5e95": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00320541",
         "Statement": "Cohort 2 of the primary trial recorded three times as many cases of Leukopenia as cohort 1.",
         "Label": "Entailment",
@@ -13784,7 +13784,7 @@
     },
     "edb1e4c0-7669-4b8c-878b-ea8ca060c350": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00074152",
         "Statement": "Only 2 of the adverse event cases in the primary trial occurred in patients from cohort 1.",
         "Label": "Contradiction",
@@ -13833,7 +13833,7 @@
     },
     "126c1169-b375-4f89-95b2-52e971d19565": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00856492",
         "Statement": "Cohort 1 of the primary trial recorded no deaths and no cases of Enterocolitis infectious.",
         "Label": "Entailment",
@@ -13856,7 +13856,7 @@
     },
     "11235250-3627-427e-aae9-099507484456": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00284180",
         "Statement": "Across all three cohorts of the primary trial a total of two patients had low levels of oxygen in their body tissues.",
         "Label": "Contradiction",
@@ -14059,7 +14059,7 @@
     },
     "f559cacb-30e7-47cf-9ac6-5929c1a508f7": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00493649",
         "Secondary_id": "NCT01201265",
         "Statement": "There were no MRSA infections in either the secondary trial or the primary trial.",
@@ -14151,7 +14151,7 @@
     },
     "a5a1c7f1-92f4-4436-9dcb-ab222ff1c8a5": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00679341",
         "Secondary_id": "NCT00201851",
         "Statement": "Patients in the secondary trial and those in the primary trial did not share any of the same adverse events.",
@@ -14195,7 +14195,7 @@
     },
     "52c8361f-75dc-45f1-a35c-79180a22b931": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02015676",
         "Statement": "There are no recorded cases of thrombocytopenia in the primary trial.",
         "Label": "Entailment",
@@ -14286,7 +14286,7 @@
     },
     "3b0440e6-cf85-4236-8a1d-2e3572143946": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00191451",
         "Statement": "Patients in the primary trial experienced a only one type of Oesophageal adverse events and several types of cardiac adverse events.",
         "Label": "Contradiction",
@@ -14423,7 +14423,7 @@
     },
     "55eaae8d-611c-4dbb-b162-de664902e059": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00454805",
         "Statement": "In the primary trial there were more cases of Intestinal Obstruction in cohort 1 than in cohort 2.",
         "Label": "Contradiction",
@@ -14567,7 +14567,7 @@
     },
     "b88eaf78-957d-4b3d-bcb2-d029b7d7b7e2": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00499122",
         "Secondary_id": "NCT00454805",
         "Statement": "There were several cases of Multi-Organ Failure in both cohort 1 of the secondary trial and cohort 2 of the primary trial.",
@@ -14607,7 +14607,7 @@
     },
     "0c435231-a09c-4424-924a-13840c6b7068": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00191789",
         "Statement": "In the primary trial there was 1 case of jaundice.",
         "Label": "Entailment",
@@ -14656,7 +14656,7 @@
     },
     "a29e6a86-65f3-4565-93e2-81f49fa837e4": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01252290",
         "Secondary_id": "NCT00479674",
         "Statement": "Unlike the secondary trial, the primary trial does not record any instances of Anemia, Dyspepsia, Nausea or depression.",
@@ -14728,7 +14728,7 @@
     },
     "e9824c27-bb70-4707-9599-ff20281f873e": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00357110",
         "Statement": "Less than 20% of patients in cohort 1 of the primary trial had Varicose Veins.",
         "Label": "Entailment",
@@ -14808,7 +14808,7 @@
     },
     "27e0b995-b3d1-46a6-900a-d6e513504ff3": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00398567",
         "Statement": "3/4 patients in the primary trial did not suffer any adverse events.",
         "Label": "Entailment",
@@ -14838,7 +14838,7 @@
     },
     "c876167f-fe1e-4c3b-9183-dd3c1069ed0b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00024102",
         "Statement": "A patient in cohort 2 of the primary trial received a Packed red blood cell transfusion.",
         "Label": "Entailment",
@@ -14944,7 +14944,7 @@
     },
     "03dcb6d9-efae-40ec-87ee-68ef89424498": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00323479",
         "Secondary_id": "NCT03078751",
         "Statement": "There were more cases of deteriorating mental health in the primary trial than the secondary trial.",
@@ -14984,7 +14984,7 @@
     },
     "b881b717-1c8a-41b8-9554-6ed9e8ee7c77": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00193206",
         "Statement": "the primary trial records a total of 7 patients suffering from various infections.",
         "Label": "Entailment",
@@ -15005,7 +15005,7 @@
     },
     "20530faf-addb-47bf-896d-b9666e149223": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01439282",
         "Statement": "In total cohort 1 of the primary trial recorded 20% more adverse events than cohort 2.",
         "Label": "Contradiction",
@@ -15148,7 +15148,7 @@
     },
     "db90c9d8-b289-48e2-a7df-f41620b3feab": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00110084",
         "Secondary_id": "NCT01961544",
         "Statement": "the primary trial and the secondary trial both reported cases of sepsis in their patients.",
@@ -15164,7 +15164,7 @@
     },
     "f2533676-1e72-444e-8aef-1fa826ceb804": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01419197",
         "Statement": "There are no cases of agranulocytosis in the primary trial.",
         "Label": "Entailment",
@@ -15243,7 +15243,7 @@
     },
     "8809cc5e-36d5-4f7e-b06d-b1915a421f71": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00759785",
         "Statement": "Only one adverse event, a Breast abscess, is observed in patients from cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -15283,7 +15283,7 @@
     },
     "ca27db58-14c4-4889-95b1-69be9c10a07a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00623233",
         "Secondary_id": "NCT01525589",
         "Statement": "More patients with a Low Platelet Count where found in the primary trial than in the secondary trial.",
@@ -15347,7 +15347,7 @@
     },
     "a5ed3500-1ea1-40b6-b1cb-3d5ae776f713": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00656669",
         "Statement": "the primary trial did not record any adverse events.",
         "Label": "Entailment",
@@ -15434,7 +15434,7 @@
     },
     "eb152d1b-a0d6-428c-8d1d-eb5d862a8147": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01120184",
         "Statement": "At least 1 patient in cohort 1 of the primary trial suffered from a Hemophilia, a rare coagulation disorder.",
         "Label": "Contradiction",
@@ -15455,7 +15455,7 @@
     },
     "0701ac32-45b3-4199-aa20-a71080ce9bf6": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00546156",
         "Secondary_id": "NCT00398567",
         "Statement": "There are no cases of Vertigo in the primary trial or the primary trial.",
@@ -15628,7 +15628,7 @@
     },
     "c3f01101-2259-4677-add1-1b1f48a0202b": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00528567",
         "Secondary_id": "NCT01196052",
         "Statement": "The total number of patients affected by adverse events in cohort 2 the primary trial is more than 1000.",
@@ -15742,7 +15742,7 @@
     },
     "2ea80a50-0db3-4ff2-8ca0-71eb048649f7": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01875367",
         "Statement": "More than 3 patients in the primary trial had a common cold.",
         "Label": "Contradiction",
@@ -15811,7 +15811,7 @@
     },
     "a44cd0d1-92b3-4add-badf-b8dd5a324138": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01466972",
         "Secondary_id": "NCT01446159",
         "Statement": "the primary trial recorded one patient with congestive heart failure, the secondary trial did not record any.",
@@ -16120,7 +16120,7 @@
     },
     "4e3379b9-f971-4ab6-8846-c395f1162bf2": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00810797",
         "Secondary_id": "NCT00828074",
         "Statement": "Skin infections were more common in patients in cohort 1 of the secondary trial, than in cohort 1 of the primary trial.",
@@ -16168,7 +16168,7 @@
     },
     "2ef37a06-a1ed-47eb-b8f4-2f97f46293d1": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01875367",
         "Statement": "One patient in the primary trial suffered a cerebral infarction.",
         "Label": "Entailment",
@@ -16302,7 +16302,7 @@
     },
     "1a112ed3-8318-493b-8973-10de01794892": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00382018",
         "Secondary_id": "NCT03012477",
         "Statement": "Between the patients in the primary trial and the secondary trial, only a single one suffered from sepsis.",
@@ -16429,7 +16429,7 @@
     },
     "cb023dbc-3e99-4c32-a857-7f8d49ef5a96": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00789581",
         "Secondary_id": "NCT02445586",
         "Statement": "the secondary trial reported more cases of Haematemesis, but the primary trial had more total cases of DIASTOLIC DYSFUNCTION across both its cohorts.",
@@ -16540,7 +16540,7 @@
     },
     "63ec91be-7e12-431e-84b0-ca401bfb157b": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01048099",
         "Secondary_id": "NCT02502864",
         "Statement": "the primary trial recorded 2.38% more total adverse events than the secondary trial",
@@ -16589,7 +16589,7 @@
     },
     "6a5ee728-7db9-4ec0-b98c-0500e9a6187e": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00924352",
         "Statement": "One patient in the primary trial had abnormally low levels of AST, ALT and ANC.",
         "Label": "Contradiction",
@@ -16802,7 +16802,7 @@
     },
     "94cd9451-35a4-4035-a7de-2d385f771607": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01671319",
         "Statement": "1/42 patients in cohort 2 of the primary trial fainted.",
         "Label": "Contradiction",
@@ -16817,7 +16817,7 @@
     },
     "18310f83-54ca-4530-92f1-7c41419ab69e": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00068341",
         "Statement": "More patients in cohort 1 of the primary trial experienced febrile neutropenia than in cohort 2.",
         "Label": "Entailment",
@@ -16848,7 +16848,7 @@
     },
     "4fa6b99e-0e70-465d-8b24-b728979b3689": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00567190",
         "Statement": "There was the same number of anemic patinets in both cohorts of the primary trial.",
         "Label": "Entailment",
@@ -16884,7 +16884,7 @@
     },
     "f0fbdbf4-af12-4cde-a5f1-a56cc60658f4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00148668",
         "Statement": "Cohort 1 and 2 of the primary trial recorded the same number of patients with Neutropenia.",
         "Label": "Entailment",
@@ -16903,7 +16903,7 @@
     },
     "6a37e999-4b7e-4654-b9ac-7776a0720040": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01310231",
         "Secondary_id": "NCT00093808",
         "Statement": "1 patient in the secondary trial developed an eating disorder, there were no cases of this happening in the primary trial.",
@@ -16946,7 +16946,7 @@
     },
     "a625ff4b-9c91-4ab8-a78b-df833d15759a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00423917",
         "Secondary_id": "NCT00082641",
         "Statement": "the primary trial and the secondary trial both report cases of confusion in all their patient cohorts.",
@@ -16964,7 +16964,7 @@
     },
     "b25e7c40-a1db-4ae7-9613-0f65ddb4c040": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00082641",
         "Statement": "At least one patient in the primary trial suffered from a life threatening bone fracture.",
         "Label": "Contradiction",
@@ -16989,7 +16989,7 @@
     },
     "25f1f3b8-15ed-4339-bf56-1cf1e0c2909f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00856492",
         "Statement": "Cohort 1 of the primary trial recorded no deaths and no cases of Anemia.",
         "Label": "Contradiction",
@@ -17149,7 +17149,7 @@
     },
     "c3e5a015-e8b5-4281-828c-deb1f7fc7e3a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02502864",
         "Statement": "The maximum number of occurences for an adverse event in the primary trial was 3.",
         "Label": "Contradiction",
@@ -17216,7 +17216,7 @@
     },
     "a81e4dbe-e9cf-4f2b-b2f7-b1bf6d630c42": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00887575",
         "Secondary_id": "NCT01610284",
         "Statement": "Cohort 1 of the secondary trial had more than 50x the number of patients as cohort 1 of the primary trial.",
@@ -17232,7 +17232,7 @@
     },
     "36957dd8-fe28-4b70-b651-8f6ea7d1d0e9": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01269346",
         "Secondary_id": "NCT01597193",
         "Statement": "Cohort 1 of the primary trial and Cohort 1 of the secondary trial  have the same total number of adverse events.",
@@ -17248,7 +17248,7 @@
     },
     "1aee22c7-96f2-4ea6-909a-48741f87ba07": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01111825",
         "Statement": "There were no observed cases of Constipation, Diarrhoea, Nausea or Febrile neutropenia within patient cohorts 1 and 2 of the primary trial.",
         "Label": "Entailment",
@@ -17359,7 +17359,7 @@
     },
     "1fc3aeac-3bc0-4a47-8222-ea267a822804": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00929240",
         "Statement": "There are no cases of Febrile bone marrow aplasia in the primary trial.",
         "Label": "Entailment",
@@ -17404,7 +17404,7 @@
     },
     "1b8403ac-7eb3-41cb-8b7e-a89af3492805": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02924883",
         "Statement": "In the primary trial, all cases of  Enteritis, Vertigo and Anaemia occurred in cohort 2.",
         "Label": "Contradiction",
@@ -17574,7 +17574,7 @@
     },
     "b1a17048-dfe8-4173-ae80-6ec273244848": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01298193",
         "Statement": "More than 20% of  patients in cohort 1 of the primary trial experienced adverse events.",
         "Label": "Contradiction",
@@ -17640,7 +17640,7 @@
     },
     "ed43519d-9954-4e0f-9d42-39a3ed81e4a5": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00820872",
         "Statement": "Hyperglycemia was the most common adverse event in cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -17662,7 +17662,7 @@
     },
     "8d2fde27-a5e8-40ee-a35d-3d4697198a4e": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00929240",
         "Statement": "There are no cases of Febrile neutropenia in the primary trial.",
         "Label": "Contradiction",
@@ -17745,7 +17745,7 @@
     },
     "9a31db67-e28a-4114-a308-e899f9c22813": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02291913",
         "Statement": "One patient in the primary trial suffered from an inflammation of the esophagus.",
         "Label": "Entailment",
@@ -17856,7 +17856,7 @@
     },
     "37301690-9b68-48de-b280-6307e632043e": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02301988",
         "Secondary_id": "NCT00728949",
         "Statement": "The only types of adverse events recorded by both the secondary trial and the primary trial is Diarrhoea and various pains .",
@@ -17970,7 +17970,7 @@
     },
     "646959e4-25d0-4eb1-b7b0-2d7b1e02e132": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01262027",
         "Statement": "Less than 5% of patients in the primary trial suffered an adverse event.",
         "Label": "Entailment",
@@ -18045,7 +18045,7 @@
     },
     "deb77d34-76a5-4e6e-bc9d-176cc30eca07": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00917735",
         "Statement": "One patient in cohort 2 of the primary trial died in a motorcycle crash.",
         "Label": "Contradiction",
@@ -18065,7 +18065,7 @@
     },
     "bfe97430-fcec-4c4a-9621-51f6ec05d8d3": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00068341",
         "Statement": "More patients in cohort 1 of the primary trial experienced death progressive disease  than in cohort 2.",
         "Label": "Contradiction",
@@ -18159,7 +18159,7 @@
     },
     "81c85a29-d449-4f79-a3b3-682ba5f288ca": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00190671",
         "Secondary_id": "NCT00455533",
         "Statement": "In the primary trial cohort 2 had more patients with Leukopenia than cohort 1, whereas in the secondary trial cohort 1 had more than cohort 2. Cohort 2 of the primary trial had the highest proportion of patients with leukopenia.",
@@ -18236,7 +18236,7 @@
     },
     "698849c5-78fa-4c15-a1dc-f44eb9c970c2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00082641",
         "Statement": "At least one patient in the primary trial suffered from impaired mobility.",
         "Label": "Entailment",
@@ -18247,7 +18247,7 @@
     },
     "4b4e6ac7-107c-46f4-adbb-c77c01f51935": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00075764",
         "Statement": "The most common adverse event in cohort 1 of the primary trial is low Hemoglobin levels.",
         "Label": "Entailment",
@@ -18345,7 +18345,7 @@
     },
     "64fe54a2-8897-4324-af88-f627c1c208ed": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01764022",
         "Statement": "Cohort 2 of the primary trial recorded multiple incidents of thrombocytopenia.",
         "Label": "Contradiction",
@@ -18476,7 +18476,7 @@
     },
     "d5ea3443-103f-4d29-9be3-522210b84152": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00618826",
         "Secondary_id": "NCT02040857",
         "Statement": "the primary trial and the secondary trial only record 2 of the same adverse events.",
@@ -18511,7 +18511,7 @@
     },
     "608c5521-c9a6-47de-9ebf-791ce317a02d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00086957",
         "Statement": "All of the patients in cohort 1 of the primary trial experienced an adverse event.",
         "Label": "Entailment",
@@ -18559,7 +18559,7 @@
     },
     "2d97bfa0-336f-4976-95e5-1262327a730b": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01048099",
         "Secondary_id": "NCT02502864",
         "Statement": "the primary trial recorded 2 more total adverse events than the secondary trial",
@@ -18805,7 +18805,7 @@
     },
     "5feefe8b-ddca-4eb8-af68-d1e211963d1f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02748213",
         "Statement": "2 patients, in cohort 1 of the primary trial was recorded as having an overactive pituitary gland.",
         "Label": "Contradiction",
@@ -18853,7 +18853,7 @@
     },
     "178c50cc-49ee-4083-bc8e-b5832037498a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00258960",
         "Statement": "4 patients in the primary trial experienced a grade 3 or above adverse event.",
         "Label": "Contradiction",
@@ -18871,7 +18871,7 @@
     },
     "92ace4fa-4426-4f34-af52-ee62913e60aa": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01026142",
         "Secondary_id": "NCT00846027",
         "Statement": "There were 10% more patients with Left ventricular systolic dysfunction in cohort 1 of the primary trial than in the secondary trial.",
@@ -18908,7 +18908,7 @@
     },
     "824da29f-b2ff-440e-8b78-7a8291cbd6d2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02340221",
         "Statement": "A total of 89 patients in the primary trial had Supraventricular tachycardia.",
         "Label": "Contradiction",
@@ -18943,7 +18943,7 @@
     },
     "6cbac938-baf2-4f0b-b67b-9caeb7ea4fe1": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02748213",
         "Statement": "1 patient, in cohort 1 of the primary trial was recorded as having an overactive thyroid gland.",
         "Label": "Entailment",
@@ -18976,7 +18976,7 @@
     },
     "052ee533-7daa-4cbf-a64c-bc9a50444173": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00244933",
         "Statement": "the primary trial does not monitor the occurrence of Hemoglobin C Disease in its adverse events.",
         "Label": "Entailment",
@@ -18995,7 +18995,7 @@
     },
     "1d7dbb44-049d-4887-8bd6-6aefc77aa1e9": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00444587",
         "Statement": "A total of 7 patients in the primary trial were observed with either Leukopenia, Cardiopulmonary failure or Diarrhoea.",
         "Label": "Entailment",
@@ -19161,7 +19161,7 @@
     },
     "5ac83a45-db7d-44d1-bf37-9cbf3c8fabb6": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00093145",
         "Secondary_id": "NCT00703326",
         "Statement": "Heart-related adverse events were recorded in the secondary trial, but not  the primary trial.",
@@ -19180,7 +19180,7 @@
     },
     "d130c981-f602-4f17-b1cb-11a7ad632b92": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01234402",
         "Statement": "the primary trial more than 6 different types of cardiac related adverse events.",
         "Label": "Entailment",
@@ -19217,7 +19217,7 @@
     },
     "e966302f-9378-4681-b2c6-9d8b5b5f709f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00182793",
         "Statement": "The majority of patients in the primary trial experienced an adverse event.",
         "Label": "Entailment",
@@ -19294,7 +19294,7 @@
     },
     "b01e966e-6624-4740-b477-a8bbbd8eec50": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02102490",
         "Secondary_id": "NCT00768222",
         "Statement": "In contrast to the secondary trial, the primary trial did not record any cases of Skin lymphangitis, Bone marrow suppression or Allergic shock.",
@@ -19330,7 +19330,7 @@
     },
     "92acd36d-ea44-4b98-acbc-e51382233089": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00820872",
         "Statement": "Diarrhea was the most common adverse event in cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -19523,7 +19523,7 @@
     },
     "83511f04-e07c-438d-bf1e-f680fa49b384": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01901146",
         "Secondary_id": "NCT00209092",
         "Statement": "Cohort 1 of the primary trial recorded more instances of Neutropenic fever than Cohort 1 of the secondary trial.",
@@ -19539,7 +19539,7 @@
     },
     "c06a6571-6bc9-4bc1-b4f5-3e7aa71c8c94": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00290758",
         "Statement": "There was one genitourinary adverse events recorded in the primary trial.",
         "Label": "Entailment",
@@ -19566,7 +19566,7 @@
     },
     "72bb3c6e-66b0-4380-9da2-5a5867d715fd": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00475670",
         "Statement": "compared to cohort 1 of the primary trial, there are more cases of every observed adverse event in cohort 2. ",
         "Label": "Entailment",
@@ -19593,7 +19593,7 @@
     },
     "1b433096-f36a-4205-b16e-f9a370be3d05": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01365845",
         "Statement": "More than 18 participants in the primary trial had radiation dermatitis.",
         "Label": "Contradiction",
@@ -19622,7 +19622,7 @@
     },
     "0d76e3b7-c6ed-48b2-a3c2-4857a9c02f76": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00323479",
         "Secondary_id": "NCT03078751",
         "Statement": "There were more cases of Pulmonary embolisms in the primary trial than the secondary trial.",
@@ -19702,7 +19702,7 @@
     },
     "99951bae-37c8-4299-8ec1-4577a97d0b81": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00394082",
         "Secondary_id": "NCT01033032",
         "Statement": "the primary trial recorded cases of pleural effusion and Spinal compression fracture, neither of these were observed in the secondary trial.",
@@ -19776,7 +19776,7 @@
     },
     "2b182323-9357-486a-87aa-09ddc6230bf1": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02481050",
         "Statement": "There is only 1 adverse event in the primary trial that occurred more than once.",
         "Label": "Entailment",
@@ -19988,7 +19988,7 @@
     },
     "888a8d39-3ad6-401e-acf2-cf5e01a73bf2": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00266110",
         "Secondary_id": "NCT00879086",
         "Statement": "the primary trial had a much higher rate of adverse events than the secondary trial.",
@@ -20033,7 +20033,7 @@
     },
     "13466cbb-9f78-46ff-a983-09e2e9ad5a2c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00679211",
         "Statement": "1 patient in the primary trial presented a fever, in addition to either a cough or a sore throat.",
         "Label": "Entailment",
@@ -20126,7 +20126,7 @@
     },
     "affdd551-15e2-4a47-8c20-209cc01570ec": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03012477",
         "Statement": "One patient in the primary trial experienced a thromboembolic event, a condition associated with a high degree of morbidity and mortality. However, the most common adverse event was Diarrhea.",
         "Label": "Entailment",
@@ -20175,7 +20175,7 @@
     },
     "a7903e59-9620-457a-8d83-eb6eb5dd8a2b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01300351",
         "Statement": "At least 1 participant in each cohort of the primary trial showed signs of poor liver function.",
         "Label": "Contradiction",
@@ -20211,7 +20211,7 @@
     },
     "da00532d-57a8-4fe2-a2de-acc525161fd9": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01120184",
         "Statement": "At least 1 patient in cohort 1 of the primary trial suffered from a coagulation disorder.",
         "Label": "Entailment",
@@ -20252,7 +20252,7 @@
     },
     "a06d1ca5-c890-4157-b1d2-0b70fd0092bd": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00591851",
         "Statement": "There were 4 different cardiac adverse events recorded in cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -20314,7 +20314,7 @@
     },
     "5a1358af-f51b-49f8-b1c0-99a0b108b0a2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00091442",
         "Statement": "There were more cases of Febrile neutropenia than leukopenia observed in the primary trial, but less cases of neutropenia than leukopenia.",
         "Label": "Contradiction",
@@ -20392,7 +20392,7 @@
     },
     "fb43432d-6c1b-4ff7-aea8-72bc2519a12d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00130533",
         "Statement": "Nobody in cohort 1 of the primary trial suffered from Hyperbilirrubinemia.",
         "Label": "Contradiction",
@@ -20572,7 +20572,7 @@
     },
     "f7410166-82a7-4d15-8a04-47287ef6884c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00448591",
         "Statement": "Only two types of adverse events occurred in more than 1% of patient in cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -20716,7 +20716,7 @@
     },
     "2ddd64c7-98ef-4b06-9f01-e59d3731e8ca": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00483223",
         "Secondary_id": "NCT00811135",
         "Statement": "There are more cases of Intestinal perforation, Chest pain, death, Erysipelas and Pneumonia in the secondary trial than in the primary trial",
@@ -20805,7 +20805,7 @@
     },
     "5498a85b-a086-4d5d-b677-9ae44646a382": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00546156",
         "Secondary_id": "NCT00398567",
         "Statement": "There are no cases of Vertigo, Abdominal distension or Neutropenia in the primary trial or the primary trial.",
@@ -20957,7 +20957,7 @@
     },
     "714c540c-1fa1-47c7-ac13-1e8f056d1e31": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02115984",
         "Statement": "A total of 3 patients in cohort 1 of the primary trial experience a Herpes related adverse event.",
         "Label": "Contradiction",
@@ -20982,7 +20982,7 @@
     },
     "3948b30d-934d-485c-b324-b3571e2957a3": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00688740",
         "Secondary_id": "NCT00191815",
         "Statement": "The most common adverse events in the primary trial and the secondary trial is Neutropenia with a total of 3 cases across all cohorts.",
@@ -21030,7 +21030,7 @@
     },
     "45cf29ce-25f5-4719-8468-69d94893c9e7": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01166763",
         "Statement": "the primary trial recorded 4 life-threatening adverse events.",
         "Label": "Contradiction",
@@ -21083,7 +21083,7 @@
     },
     "79dbf7bf-e08d-4eae-a804-0daeb83d6f01": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00930930",
         "Statement": "The most frequent adverse event in cohort 1 of the primary trial was lymphopenia.",
         "Label": "Contradiction",
@@ -21147,7 +21147,7 @@
     },
     "23040754-d1ad-4660-aacf-3298aefa5dae": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00777101",
         "Secondary_id": "NCT00559845",
         "Statement": "There were no depressed patients in either the primary trial or the secondary trial, however there was one suicide attempt in cohort 2 of the secondary trial.",
@@ -21196,7 +21196,7 @@
     },
     "e3be834c-c311-4132-8529-d354b9e620b9": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01033032",
         "Statement": "The only adverse event recorded in the primary trial was one single case of pleural effusion.",
         "Label": "Entailment",
@@ -21228,7 +21228,7 @@
     },
     "bbcfc019-2d60-413f-88f9-04cacec55e30": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00333775",
         "Secondary_id": "NCT00201864",
         "Statement": "There are several cardiac adverse events recorded in the primary trial, but not a single one in the secondary trial.",
@@ -21375,7 +21375,7 @@
     },
     "c0277198-6eef-4cf3-9527-dea5d01a4000": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00426556",
         "Statement": "There were more than 3 cases of Febrile neutropenia, Leukopenia and Neutropenia across all cohorts in the primary trial.",
         "Label": "Contradiction",
@@ -21418,7 +21418,7 @@
     },
     "43560d8e-0767-40ce-b2fb-1b8dda231bdf": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00394251",
         "Statement": "There were more cases of Cardiac failure than Pericardial effusion recorded in cohort 1.",
         "Label": "Contradiction",
@@ -21440,7 +21440,7 @@
     },
     "2417fea2-7c8e-4f03-a918-c3cfcbe97425": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01998906",
         "Statement": "The same number of cases of Neutropenia, Febrile neutropenia and Pancytopenia are observed in patients from cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -21575,7 +21575,7 @@
     },
     "9e28c807-8d88-4eea-87ee-48a42bd002ab": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00618826",
         "Secondary_id": "NCT02040857",
         "Statement": "the primary trial and the secondary trial only record 4 of the same adverse events.",
@@ -21658,7 +21658,7 @@
     },
     "44ae021e-241b-4dbf-b88f-0b9d41eab555": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00201851",
         "Statement": "There were no cases of Oesophageal spasming observed in the primary trial.",
         "Label": "Entailment",
@@ -21679,7 +21679,7 @@
     },
     "523a44a3-6b90-4be7-ab46-6b6addd7b5b9": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00080301",
         "Statement": "There were 5 more cases of THROMBOCYTOPENIA in cohort 2 of the primary trial, than in cohort 1.",
         "Label": "Entailment",
@@ -21764,7 +21764,7 @@
     },
     "1a451f2e-0818-4a86-8808-0e4cce700aef": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00391092",
         "Statement": "In total there were 32 cases of Febrile neutropenia in the primary trial, and only one case of anemia.",
         "Label": "Contradiction",
@@ -21779,7 +21779,7 @@
     },
     "52333afb-0e7a-4823-ae9b-746e0ce57c8c": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01325207",
         "Secondary_id": "NCT02429427",
         "Statement": "Patients participating in the primary trial and the secondary trial experienced a variety of cardiac problems. ",
@@ -21798,7 +21798,7 @@
     },
     "4216b27f-4d3e-4029-9637-2e6dade15b73": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00005908",
         "Statement": "There was only one patient cohort in the primary trial.",
         "Label": "Entailment",
@@ -21819,7 +21819,7 @@
     },
     "14a32a42-424b-4b97-bae9-05f4bb2b415b": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00246090",
         "Secondary_id": "NCT00266799",
         "Statement": "Cohort 1 of the primary trial 0.0015% less total adverse events than cohort 2 of the secondary trial.",
@@ -21931,7 +21931,7 @@
     },
     "7e629f62-2981-4462-a4c1-f0cc9c24777a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00490646",
         "Statement": "Cohort 1 of the primary trial had 25% more patients experiencing Cholecystitis than cohort 2.",
         "Label": "Contradiction",
@@ -21983,7 +21983,7 @@
     },
     "a6fcfea0-eacd-4a04-92a8-55a0c3c8bfb2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03078751",
         "Statement": "Cohort 2 of the primary trial reported one case of AML.",
         "Label": "Contradiction",
@@ -22331,7 +22331,7 @@
     },
     "3b6229a9-00a1-4d26-9285-6d9f6a25fd77": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02273973",
         "Statement": "Twice as many patients in cohort 1 of the primary trial suffered from Erysipelas than diarrhoea.",
         "Label": "Contradiction",
@@ -22407,7 +22407,7 @@
     },
     "01c6f82e-710d-4fa4-aa62-2d26e72f4533": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00894504",
         "Statement": "There were no adverse event in the primary trial which occurred more than 71 times.",
         "Label": "Entailment",
@@ -22543,7 +22543,7 @@
     },
     "95869347-6c3d-4de8-a325-a9a652f11edf": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02102490",
         "Secondary_id": "NCT00768222",
         "Statement": "In contrast to the secondary trial, the primary trial did not record any cases of Sinus bradycardia, Bone marrow suppression or Constipation .",
@@ -22579,7 +22579,7 @@
     },
     "8df8e2c0-a0ca-4ea2-ba83-494f250c4bef": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00509769",
         "Statement": "3/112 patients (2.68%) in the primary trial had Diabetes insipidus  ",
         "Label": "Contradiction",
@@ -22877,7 +22877,7 @@
     },
     "7b9fdeaa-5cb7-4453-b174-07b44bb58234": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00127205",
         "Statement": "More patients in the primary trial suffer from dysfunctions with ventricular contractions than ventricular relaxations.",
         "Label": "Entailment",
@@ -22889,7 +22889,7 @@
     },
     "c330f152-c64e-47ab-8568-5129a1a2099e": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00875979",
         "Statement": "None of the 60+ patients in cohort 2 the primary trial experienced any adverse events.",
         "Label": "Contradiction",
@@ -22930,7 +22930,7 @@
     },
     "e3b88c8c-241d-4ead-8573-534a46210707": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00811135",
         "Statement": "The majority of patients in the primary trial did not experience Left ventricular dysfunction.",
         "Label": "Entailment",
@@ -22941,7 +22941,7 @@
     },
     "e621f354-dea0-4d0f-a252-5480028c1712": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00022516",
         "Statement": "At least 1 patient in the primary trial suffered from a radiotherapy induced adverse event.",
         "Label": "Entailment",
@@ -23025,7 +23025,7 @@
     },
     "c7c745d6-03ee-4740-9ef4-641fb6546e46": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00544167",
         "Statement": "Every adverse event in the primary trial occurred more than 8 times.",
         "Label": "Contradiction",
@@ -23044,7 +23044,7 @@
     },
     "c5c8ab0b-8062-4467-8ecd-bb15f35f54c0": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00617942",
         "Secondary_id": "NCT00388726",
         "Statement": "the primary trial had a lower total percentage of patients experiencing adverse events compared to the secondary trial.",
@@ -23285,7 +23285,7 @@
     },
     "aeac5b1c-26f9-44bc-b1c4-3bd0d498914e": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00483223",
         "Secondary_id": "NCT00811135",
         "Statement": "There are more cases of Intestinal perforation, Chest pain, death, Hyperglycemia and Pneumonia in the secondary trial than in the primary trial",
@@ -23346,7 +23346,7 @@
     },
     "35c62055-2832-4119-9080-5603beea1934": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02402764",
         "Secondary_id": "NCT00490646",
         "Statement": "There were no cases of Pneumopathy in either the primary trial or the secondary trial.",
@@ -23421,7 +23421,7 @@
     },
     "4619b957-3368-47b9-b949-01ec91208f96": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01629615",
         "Secondary_id": "NCT00320541",
         "Statement": "the secondary trial recorded more cardiac related adverse events than the primary trial.",
@@ -23471,7 +23471,7 @@
     },
     "5bb09d7b-622f-4bdd-8dfd-809ea014a278": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00559754",
         "Secondary_id": "NCT02924883",
         "Statement": "A higher percent of patients in cohort 1 of the secondary trial experienced adverse events, than in cohort 1 of the primary trial.",
@@ -23540,7 +23540,7 @@
     },
     "bda2752e-082e-4d06-926a-04ade3f61c26": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03165955",
         "Secondary_id": "NCT00912340",
         "Statement": "11 patients in the primary trial suffer from a liver disease, 0 in the secondary trial.",
@@ -23590,7 +23590,7 @@
     },
     "f418c027-439a-4b19-bfb0-e1c1241886d8": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01127763",
         "Statement": "There were 4 more cases of Dyspnea than Dehydration in the primary trial.",
         "Label": "Contradiction",
@@ -23674,7 +23674,7 @@
     },
     "5338f894-aecb-4678-bb67-fe058653e12b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01365845",
         "Statement": "Less than a quarter of participants in the primary trial had radiation dermatitis.",
         "Label": "Entailment",
@@ -23818,7 +23818,7 @@
     },
     "fe6f3faf-8be6-4ec6-8622-b4d36e8c2876": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00066573",
         "Secondary_id": "NCT01091454",
         "Statement": "There were 0 cases of night blindness in the primary trial, and 1 in the secondary trial.",
@@ -23896,7 +23896,7 @@
     },
     "a49666fd-f278-4dcf-b6bf-287ace3969aa": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02001974",
         "Statement": "No cases of Metastasis to the CNS were recorded in the primary trial.",
         "Label": "Contradiction",
@@ -24110,7 +24110,7 @@
     },
     "e591b3bb-0628-46e7-9d60-28989fd6a3d0": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01674062",
         "Statement": "One patient in the primary trial was observed vomiting blood.",
         "Label": "Entailment",
@@ -24145,7 +24145,7 @@
     },
     "dab9d582-eaf3-443f-bdb9-073aec304ee6": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01629615",
         "Secondary_id": "NCT00320541",
         "Statement": "the secondary trial recorded more cardiac related adverse events than the primary trial.",
@@ -24195,7 +24195,7 @@
     },
     "8b9bb672-1de3-4220-956c-9e86ed78063d": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00265759",
         "Secondary_id": "NCT00866905",
         "Statement": "One case of hematolysis was recorded in the primary trial, none in the secondary trial.",
@@ -24324,7 +24324,7 @@
     },
     "bc845a3d-1f69-41a3-bf84-36a62e8127a4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01439282",
         "Statement": "In total cohort 1 of the primary trial recorded more than 10 times the number of adverse events as cohort 2.",
         "Label": "Entailment",
@@ -24389,7 +24389,7 @@
     },
     "f4ce0687-a0b8-47e8-a3ba-dcf279c1dde9": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00912340",
         "Statement": "More patients in cohort 2 of the primary trial suffered from Pleural effusions than in cohort 1.",
         "Label": "Entailment",
@@ -24442,7 +24442,7 @@
     },
     "341c0861-b9a3-491d-8d49-aa61a8501a4f": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00083174",
         "Secondary_id": "NCT00190671",
         "Statement": "The highest number of occurences for any adverse event in both the primary trial and the secondary trial was 39.",
@@ -24494,7 +24494,7 @@
     },
     "16d6e554-a1df-42f9-b051-947d70595cbb": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00915018",
         "Statement": "The only cases of Leukopenia in the primary trial occurred in cohort 1.",
         "Label": "Entailment",
@@ -24539,7 +24539,7 @@
     },
     "ccc5e420-dda4-4fb9-8d68-82551d69017f": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00688909",
         "Secondary_id": "NCT00129376",
         "Statement": "Patients in both the primary trial and the secondary trial suffered from Pulmonary embolisms.",
@@ -24677,7 +24677,7 @@
     },
     "f40c8d92-2921-45fd-8389-15048b08e229": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00670982",
         "Statement": "Neutropenia was the most prevalent adverse event in the primary trial.",
         "Label": "Entailment",
@@ -24949,7 +24949,7 @@
     },
     "f6bba549-3d18-4a53-8685-96b4e321b1a7": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00645333",
         "Secondary_id": "NCT00006110",
         "Statement": "the primary trial records several immune system related adverse events in its patients, whereas the secondary trial does not.",
@@ -25008,7 +25008,7 @@
     },
     "3576f3e7-a1b9-4a75-934a-1ad2165b69dd": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01091454",
         "Secondary_id": "NCT00054275",
         "Statement": "There were more cases of Anemia and vomiting in the primary trial than the secondary trial.",
@@ -25049,7 +25049,7 @@
     },
     "de71f285-4382-465f-9e7e-d163662f6d9c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01446159",
         "Statement": "the primary trial only had a total of 66 patients in across both its cohorts.",
         "Label": "Contradiction",
@@ -25062,7 +25062,7 @@
     },
     "406247fb-003a-47b7-8fe4-b6b963b98f08": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00281697",
         "Statement": "the primary trial does not record any pain related adverse events.",
         "Label": "Entailment",
@@ -25111,7 +25111,7 @@
     },
     "e4756896-55c2-46e1-be19-14697ad3b39f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00201864",
         "Statement": "One patient in the primary trial had blood calcium levels far above normal.",
         "Label": "Entailment",
@@ -25121,7 +25121,7 @@
     },
     "594c9a79-d601-46b4-ae30-0b48a1117693": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02447003",
         "Secondary_id": "NCT00917735",
         "Statement": "The difference in cohort size between cohort 2 of the secondary trial and cohort 2 of the primary trial makes it impossible to make meaningful comparisons.",
@@ -25158,7 +25158,7 @@
     },
     "99e8ee0e-d72d-4e19-9424-20e5891bb2b6": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02447003",
         "Secondary_id": "NCT00917735",
         "Statement": "It is appropriate to make clinical conclusions comparing cohort 2 of the secondary trial and cohort 2  the primary trial, despite the difference in cohort size.",
@@ -25195,7 +25195,7 @@
     },
     "f1b0653f-b5ce-4558-b325-56244940c0cd": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01273896",
         "Statement": "There was twice as many cases of Dyspnea as Cardiac adverse events in cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -25207,7 +25207,7 @@
     },
     "24b24d36-2500-4841-99a3-13cba905d77d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01234402",
         "Statement": "the primary trial at least 8 different types of cardiac related adverse events.",
         "Label": "Contradiction",
@@ -25232,7 +25232,7 @@
     },
     "0797ff90-f847-4442-92fd-017c539bb38f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00546104",
         "Statement": "1 patient in the primary trial suffered from a blood clot blocking their trachea.",
         "Label": "Contradiction",
@@ -25409,7 +25409,7 @@
     },
     "2849d0ce-fed2-4c49-bec1-777c440caaeb": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00127205",
         "Statement": "More patients in the primary trial suffer from dysfunctions with ventricular contractions than ventricular systole.",
         "Label": "Contradiction",
@@ -25421,7 +25421,7 @@
     },
     "aa6a20f8-ee49-42b7-9b9b-64caa8b22e35": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00992225",
         "Statement": "Only 2 of the 12 adverse event types recorded in the primary trial, occurred more than once.",
         "Label": "Entailment",
@@ -25444,7 +25444,7 @@
     },
     "01a57096-0278-4c70-be43-acd57010cd6f": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01332630",
         "Secondary_id": "NCT00121134",
         "Statement": "There were more patients with significantly elevated blood pressure in cohort 1 of the primary trial, than in cohort 1 of the secondary trial.",
@@ -25545,7 +25545,7 @@
     },
     "3419e901-5880-488d-912c-023e8d1b51c7": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01466972",
         "Secondary_id": "NCT01446159",
         "Statement": "the primary trial recorded one patient with congestive Cardiac failure, the secondary trial recorded more.",
@@ -25576,7 +25576,7 @@
     },
     "adfc79ba-2996-47ce-9986-7d287931df89": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02115984",
         "Statement": "A total of 3 patients in the primary trial experience a Herpes related adverse event.",
         "Label": "Entailment",
@@ -25670,7 +25670,7 @@
     },
     "db613a72-e300-41a7-987f-788c306d94a4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00403130",
         "Statement": "There were no cases of Leukopenia or Arrhythmia observed in patients participating in the primary trial.",
         "Label": "Entailment",
@@ -25712,7 +25712,7 @@
     },
     "60bff573-0251-4f05-b2b7-dec74c7363cc": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00934856",
         "Statement": "In total, across both cohorts of the primary trial, there was at least 2 fatigued patients.",
         "Label": "Contradiction",
@@ -25899,7 +25899,7 @@
     },
     "a8514489-cb31-4c8a-abca-e1f7b3a8d4ce": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01234337",
         "Secondary_id": "NCT00217672",
         "Statement": "No cases of Anaphylaxis occurred in either the primary trial or the secondary trial.",
@@ -26015,7 +26015,7 @@
     },
     "f3a03aec-194d-4538-9be3-cea8281d995c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00693719",
         "Statement": "the primary trial recorded less than 3 different Adverse Events .",
         "Label": "Contradiction",
@@ -26121,7 +26121,7 @@
     },
     "ab6a9d30-eb92-4503-a69c-bdf3f3e6c38d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00266799",
         "Statement": "None of the patients in cohort 1 of the primary trial had Acute coronary syndrome.",
         "Label": "Entailment",
@@ -26180,7 +26180,7 @@
     },
     "aef2367d-78a5-4dc7-a6f7-d96415082362": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00570921",
         "Secondary_id": "NCT00274456",
         "Statement": "There is one case of Cardiopulmonary failure in cohort 2 of the secondary trial, but none in cohort 1 of the primary trial.",
@@ -26212,7 +26212,7 @@
     },
     "29ae75a2-d8d2-4427-bba3-ab2c411d5718": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00201851",
         "Statement": "There were no cases of Oesophageal spasming, Diastolic dysfunction or thrombosis observed in the primary trial.",
         "Label": "Contradiction",
@@ -26233,7 +26233,7 @@
     },
     "985c4cb3-2684-4a67-a479-998602044a0d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00475670",
         "Statement": "compared to cohort 1 of the primary trial, other than sudden death, there are more cases of every observed adverse event in cohort 2. ",
         "Label": "Contradiction",
@@ -26260,7 +26260,7 @@
     },
     "39e8a353-4eb0-4cf6-b0c2-f36c4bf589f3": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00107276",
         "Secondary_id": "NCT00232505",
         "Statement": "Less than 5% of patients undergoing the intervention in the primary trial had adverse events, in comparison almost 10% patients in cohort 1 of the secondary trial  experienced an adverse event, and less than a 1/3 of those in cohort 2 of the secondary trial had adverse events.",
@@ -26363,7 +26363,7 @@
     },
     "122b1aef-4506-464d-9852-47caa508b047": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00879086",
         "Statement": "Cohort 1 and 2 of the primary trial had the same number of patients with anaemia and Neutropenia, but Cohort 1 had 8 more cases of Leukopenia than cohort 2.",
         "Label": "Contradiction",
@@ -26456,7 +26456,7 @@
     },
     "e09a11e4-afc8-4351-a5bc-d847424c79ce": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01565499",
         "Secondary_id": "NCT01234402",
         "Statement": "Some of the patients in the primary trial were recorded as having heart related adverse events, whereas many patients in the secondary trial experienced several different breathing related issues.",
@@ -26527,7 +26527,7 @@
     },
     "893d5684-03f8-4acd-86e4-6d38eea3ce16": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00129935",
         "Statement": "There were 80% more cases of embolisms in cohort 2 of the primary trial than cohort 1.",
         "Label": "Contradiction",
@@ -26556,7 +26556,7 @@
     },
     "4b46164d-a4c2-4738-be36-588ab231ceb1": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01596751",
         "Secondary_id": "NCT00193050",
         "Statement": "There were 0 patients with Dysphagia or Fever in the primary trial and the secondary trial cohorts.",
@@ -26583,7 +26583,7 @@
     },
     "d9236874-7f3d-4402-9699-2889db9f5c61": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00320541",
         "Statement": "Cohort 2 of the primary trial recorded 10% more cases of Leukopenia than cohort 1.",
         "Label": "Contradiction",
@@ -26745,7 +26745,7 @@
     },
     "90203158-6477-4486-b8d9-09dcaca63617": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00570921",
         "Secondary_id": "NCT00274456",
         "Statement": "There is one case of Cardiopulmonary failure in cohort 1 of the secondary trial, but none in cohort 1 of the primary trial.",
@@ -26777,7 +26777,7 @@
     },
     "03334f23-49ab-47e5-b420-a6753ce6e832": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00574587",
         "Secondary_id": "NCT00777049",
         "Statement": "There were no cases of Myocardial ischaemia in the primary trial or the secondary trial.",
@@ -26827,7 +26827,7 @@
     },
     "a847cfc1-9556-4a55-9698-69c22696148f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02370238",
         "Statement": "There were 2 cases of Angina in the primary trial.",
         "Label": "Contradiction",
@@ -26860,7 +26860,7 @@
     },
     "fcbb7e0f-d106-44bd-a252-9b57adc6f071": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01075100",
         "Statement": "No mental health issues were observed in the primary trial.",
         "Label": "Entailment",
@@ -26988,7 +26988,7 @@
     },
     "b02c99f3-70bd-4404-8d80-c57c6dfef7b7": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02049957",
         "Secondary_id": "NCT01506609",
         "Statement": "There is are the same total number of patients in the primary trial as in the secondary trial.",
@@ -27056,7 +27056,7 @@
     },
     "3cbf2726-ddb0-460c-9dd2-082b8dda495d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00454532",
         "Statement": "Less than half of patients in cohorts 1 in the primary trial experienced adverse events, but more than 45% of patients cohort 2 did experience adverse events.",
         "Label": "Contradiction",
@@ -27185,7 +27185,7 @@
     },
     "cb9f8a52-b88e-4b04-bb28-a0eabead1439": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00728949",
         "Statement": "There were 6 adverse event categories for cohort 1 of the primary trial which recorded at least one case.",
         "Label": "Entailment",
@@ -27228,7 +27228,7 @@
     },
     "358a1d3c-9ccc-48fc-badc-1644e326c8cb": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02301988",
         "Secondary_id": "NCT00728949",
         "Statement": "The only type of adverse event recorded by both the secondary trial and the primary trial is Diarrhoea and Abdominal pain.",
@@ -27382,7 +27382,7 @@
     },
     "ff37494d-2c61-4c06-86c1-d6bcfbe9e360": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01856543",
         "Secondary_id": "NCT00365599",
         "Statement": "Across all cohorts of the secondary trial and the primary trial there was only a single recorded case of Myocarditis and Pericarditis.",
@@ -27584,7 +27584,7 @@
     },
     "51b8964b-86b8-4e93-9fb1-cb4b6f7f3451": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00371345",
         "Secondary_id": "NCT00475670",
         "Statement": "There only overlap between adverse events obeserved in the primary trial and the secondary trial is the several case of Sepsis which occurred in both trials.",
@@ -27619,7 +27619,7 @@
     },
     "276f5523-f45b-45b0-ad30-b737f2c1b1d0": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00468585",
         "Statement": "the primary trial recorded several skin infections in their patients.",
         "Label": "Contradiction",
@@ -27712,7 +27712,7 @@
     },
     "6d8b4720-e600-47d7-b6c5-3b8627f2358f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00320710",
         "Statement": "There was no adverse event in cohort 2 of the primary trial which occurred in more than 0.5% of patients.",
         "Label": "Contradiction",
@@ -27794,7 +27794,7 @@
     },
     "dc7c4409-32e5-4211-83fe-0a97b6176ca0": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01007942",
         "Statement": "Febrile neutropenia was in excess of 5 times more common in cohort 1 of the primary trial, than in cohort 2.",
         "Label": "Entailment",
@@ -27947,7 +27947,7 @@
     },
     "f4a33395-7e6b-46b9-b222-af3bbfff1591": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00866905",
         "Statement": "Less than 2% of patients in the primary trial experienced an adverse event.",
         "Label": "Contradiction",
@@ -27958,7 +27958,7 @@
     },
     "e7d00591-381f-45e2-abdb-2ae1e568b193": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01421472",
         "Statement": "More than 3 patients in the primary trial suffered from adverse events associated with a low number of white blood cells.",
         "Label": "Entailment",
@@ -27969,7 +27969,7 @@
     },
     "59da1fb5-2636-4ca8-8970-6cb45dedbed3": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00885755",
         "Secondary_id": "NCT01075100",
         "Statement": "Patients' appetites were not affected in the primary trial or the secondary trial.",
@@ -28104,7 +28104,7 @@
     },
     "ca4a190a-9007-4f8f-a199-b8fe4064e55b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02149524",
         "Statement": "Several adverse events which occurred in the primary trial were not heart related.",
         "Label": "Entailment",
@@ -28363,7 +28363,7 @@
     },
     "2c462296-35f5-482a-9ece-3b4ed4c2f53a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01216176",
         "Statement": "Urosepsis was the only recorded adverse event in the primary trial.",
         "Label": "Contradiction",
@@ -28413,7 +28413,7 @@
     },
     "5bb009f0-bc19-4a85-85b8-bd7bf0675f3f": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01252290",
         "Secondary_id": "NCT00479674",
         "Statement": "Unlike the secondary trial, the primary trial does not record any instances of Anemia, Dyspepsia, Nausea or vomiting.",
@@ -28496,7 +28496,7 @@
     },
     "c16dcd52-f2f0-40b7-9b2b-af3fd7f438b2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00871858",
         "Statement": "1 patient in the primary trial was diagnosed with a Clear cell renal cell carcinoma.",
         "Label": "Entailment",
@@ -28563,7 +28563,7 @@
     },
     "0b55d5b7-5e71-497f-96ad-9dc2f872c4aa": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00444587",
         "Statement": "A total of 2/93 patients in the primary trial were observed with either Leukopenia, Cardiopulmonary failure or Diarrhoea.",
         "Label": "Contradiction",
@@ -28633,7 +28633,7 @@
     },
     "98965d07-e2db-41bf-ac3e-a5c130513275": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00382018",
         "Secondary_id": "NCT03012477",
         "Statement": "Between the patients in the primary trial and the secondary trial, only 1.56% suffered from sepsis.",
@@ -28742,7 +28742,7 @@
     },
     "bea7f10e-09d6-42c3-9e89-dfd1112a33d5": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01276041",
         "Secondary_id": "NCT00688909",
         "Statement": "0 patients in the primary trial or the secondary trial died.",
@@ -28796,7 +28796,7 @@
     },
     "0159bfb3-231e-4711-b3ee-2798c66f5f6a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01015131",
         "Secondary_id": "NCT00312208",
         "Statement": "Both the primary trial and the secondary trial record instances of Rectal Hemorrhage within their patient cohorts.",
@@ -28830,7 +28830,7 @@
     },
     "9e7628cd-931e-4b1f-b4c1-f03f0449ac27": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00392392",
         "Secondary_id": "NCT00503906",
         "Statement": "the primary trial records two different types of pain in its adverse events, in the cranial and foot area, the secondary trial does not record any types of pain in its participants. ",
@@ -28858,7 +28858,7 @@
     },
     "f1108cbc-db27-431d-9154-1a267278bda4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00312208",
         "Statement": "Cases of Cardiomyopathy and  Leukopenia were only observed in cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -28976,7 +28976,7 @@
     },
     "04fd88c2-cf92-468d-bbc4-567cae19948d": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00087152",
         "Secondary_id": "NCT00203502",
         "Statement": "the primary trial recorded less patients with nausea than the secondary trial.",
@@ -28992,7 +28992,7 @@
     },
     "8a0d98d1-3a04-4fe4-8dc9-a41fdad5acdd": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00499122",
         "Secondary_id": "NCT00454805",
         "Statement": "There were no cases of Multi-Organ Failure in both cohort 1 of the secondary trial and cohort 1 of the primary trial.",
@@ -29129,7 +29129,7 @@
     },
     "f27b25bd-c28e-4aac-8ad6-951fd7381ce4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01262027",
         "Statement": "More than 1 patient in the primary trial suffered an adverse event.",
         "Label": "Contradiction",
@@ -29142,7 +29142,7 @@
     },
     "5311216c-94e0-4d04-acd2-b95b932ddc02": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00127933",
         "Secondary_id": "NCT00191789",
         "Statement": "the primary trial recorded at least one patient with an infection, whereas in the secondary trial none where observed.",
@@ -29170,7 +29170,7 @@
     },
     "01dfa37b-ce65-4e90-addc-395241c92f5f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00191451",
         "Statement": "Patients in the primary trial experienced a variety of Oesophageal and cardiac adverse events.",
         "Label": "Entailment",
@@ -29336,7 +29336,7 @@
     },
     "8f5423c9-17b5-4f66-aa9f-1fc9763958b2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01250379",
         "Statement": "None of the patients in the primary trial had Thrombocytopenia, heart failure, Pancytopenia, Acute coronary syndrome or Atrial fibrillation.",
         "Label": "Contradiction",
@@ -29352,7 +29352,7 @@
     },
     "0c45a782-1a3d-4e9b-a258-136ab080dbb6": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00846027",
         "Statement": "None of the adverse events recorded for the primary trial occurred less than twice.",
         "Label": "Contradiction",
@@ -29417,7 +29417,7 @@
     },
     "c77c8e02-7abb-4b63-8917-01babe5cd372": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00863655",
         "Statement": "There were 5 more cases of Anaemia and 1 more case of Disseminated intravascular coagulation in cohort 1 of the primary trial compared to cohort 2.",
         "Label": "Entailment",
@@ -29587,7 +29587,7 @@
     },
     "4cbb7f8f-ea60-453d-b4ab-e967944426d3": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00992225",
         "Statement": "Only 2 of the 16 adverse event types recorded in the primary trial, occurred more than once.",
         "Label": "Contradiction",
@@ -29626,7 +29626,7 @@
     },
     "3114ff0f-184c-48ba-b33d-631505cffeef": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01961544",
         "Statement": "the primary trial reported a combined total of 3 cases of Ascites, Asthenia and Gastritis in cohort 1.",
         "Label": "Entailment",
@@ -29658,7 +29658,7 @@
     },
     "ffdc4c5b-a091-4fa6-b2c1-49a131d7d109": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01596751",
         "Secondary_id": "NCT00193050",
         "Statement": "There were at least 15 patients with Dysphagia or Fever between the primary trial and the secondary trial patient cohorts.",
@@ -29764,7 +29764,7 @@
     },
     "b8e5baf7-ddc5-407f-84d3-4c93224477cd": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02445586",
         "Secondary_id": "NCT02115984",
         "Statement": "More than half of patients in the primary trial experienced adverse events, and there was not a single patient in either cohort of the secondary trial that did not experience an adverse event.",
@@ -30008,7 +30008,7 @@
     },
     "93a8e018-ac25-48b2-81d2-fd5b01be8f37": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01463007",
         "Secondary_id": "NCT00965523",
         "Statement": "A higher number of patients in the secondary trial suffured from infection compared to those in the primary trial.",
@@ -30067,7 +30067,7 @@
     },
     "e68b5690-11fd-4567-8dcc-dec91d1e4bb8": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01033032",
         "Statement": "The only adverse event recorded in the primary trial was one single case of spinal fracture.",
         "Label": "Contradiction",
@@ -30088,7 +30088,7 @@
     },
     "e1417a26-2f40-4dd6-b598-e66e57312595": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01931163",
         "Secondary_id": "NCT00274469",
         "Statement": "Less than 5% of cohort 1 of the primary trial had LACRIMAL DISORDER, 0% of the secondary trial patients were recorded as having LACRIMAL DISORDER.",
@@ -30134,7 +30134,7 @@
     },
     "6ee89773-958b-4eb9-bc67-18fa98a70c2d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00365365",
         "Statement": "the primary trial only recorded one type of acute adverse event.",
         "Label": "Entailment",
@@ -30155,7 +30155,7 @@
     },
     "4d776c28-8ed1-4f3f-9837-0821029d3775": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00063570",
         "Statement": "None of the patients in cohort 1 of the primary trial had a platlet deficiency, and none of the patients in cohort 2 were constipated. ",
         "Label": "Entailment",
@@ -30213,7 +30213,7 @@
     },
     "9f23f617-b8ec-4665-ad0b-9a9bc8b19691": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00688740",
         "Secondary_id": "NCT00191815",
         "Statement": "The most common adverse events in the primary trial and the secondary trial is Neutropenia with a total of 3 cases across all cohorts.",
@@ -30298,7 +30298,7 @@
     },
     "611317e3-83f9-4e8d-9a9d-3dcda62fb6cb": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00206427",
         "Statement": "A patient in the primary trial had a fungal infection of the mouth.",
         "Label": "Entailment",
@@ -30318,7 +30318,7 @@
     },
     "d6b09c0f-979c-4151-87f9-830b964e275d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01216176",
         "Statement": "Urosepsis was the most common adverse event in the primary trial.",
         "Label": "Entailment",
@@ -30369,7 +30369,7 @@
     },
     "95a509d6-2990-49ac-b36c-aedf842f17ee": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01111825",
         "Statement": "There were no observed cases of Constipation, Diarrhoea, oedemas or Febrile neutropenia within patient cohorts 1 and 2 of the primary trial.",
         "Label": "Contradiction",
@@ -30408,7 +30408,7 @@
     },
     "9bdc9efc-89eb-4b6b-961c-ceb5d686ebe6": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00258960",
         "Statement": "One patient in the primary trial experienced a grade 4 adverse event.",
         "Label": "Entailment",
@@ -30426,7 +30426,7 @@
     },
     "19c2c2d7-4c33-4842-9ed4-02cfae663ce2": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00066573",
         "Secondary_id": "NCT01091454",
         "Statement": "There was 1 case of night blindness in the primary trial, and 0 in the secondary trial.",
@@ -30514,7 +30514,7 @@
     },
     "94a54cdf-4c1c-4994-929a-ced7a33f2b43": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00866905",
         "Statement": "Less than 1% of patients in the primary trial became depressed.",
         "Label": "Entailment",
@@ -30747,7 +30747,7 @@
     },
     "011991a5-724d-4b95-b9ab-9e1371d77368": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00086957",
         "Statement": "All of the patients in cohort 1 of the primary trial experienced Leukopenia and Febrile neutropenia.",
         "Label": "Contradiction",
@@ -30769,7 +30769,7 @@
     },
     "8421197a-3a35-4738-b1c8-83cce0ac4115": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02896855",
         "Secondary_id": "NCT00171314",
         "Statement": "the secondary trial recorded more total occurences of cardiac adverse events than the primary trial.",
@@ -30831,7 +30831,7 @@
     },
     "d09091f1-3fc5-498b-8c59-4678590c8464": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03176238",
         "Secondary_id": "NCT01498458",
         "Statement": "Although there is a much higher percentage of patients with Enterocolitis in the secondary trial than in cohort 1 of the primary trial, no robust comparisons can be made due to the significant differences in cohort sizes.",
@@ -30872,7 +30872,7 @@
     },
     "f4909215-5b14-42d9-bda4-4d112cf2a108": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02574455",
         "Statement": "More than 1/3 patients in cohort 1 of the primary trial experienced an adverse event.",
         "Label": "Contradiction",
@@ -30883,7 +30883,7 @@
     },
     "9c27202c-7090-4be5-840e-351992aeb81c": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00093808",
         "Secondary_id": "NCT00394082",
         "Statement": "the primary trial and the secondary trial reported the same number of dehydrated patients during the studies.",
@@ -30897,7 +30897,7 @@
     },
     "fc7d8ffd-9896-4806-a095-d435cde83c88": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00528567",
         "Secondary_id": "NCT01196052",
         "Statement": "The total number of patients affected by adverse events in cohort 2 the primary trial, is larger than the cohort size of the secondary trial.",
@@ -31140,7 +31140,7 @@
     },
     "fc8ed290-e2b3-4eea-a837-d369dcd9b5da": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00875979",
         "Statement": "None of the 3 patients in cohort 1 of the primary trial experienced any adverse events.",
         "Label": "Entailment",
@@ -31165,7 +31165,7 @@
     },
     "207b0895-91de-4238-8d50-e2b8b7420fb0": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00559845",
         "Secondary_id": "NCT00426556",
         "Statement": "In total there were more adverse events in the secondary trial than in the primary trial.",
@@ -31223,7 +31223,7 @@
     },
     "3edf0cf2-62ea-4ac6-82aa-2bb1566c6c43": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00887575",
         "Secondary_id": "NCT01610284",
         "Statement": "Cohort 1 of the secondary trial had more than 3x the cohort size of cohort 1 of the primary trial.",
@@ -31312,7 +31312,7 @@
     },
     "77982c81-d147-48d9-909c-18b9a98224e9": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01301729",
         "Secondary_id": "NCT02129556",
         "Statement": "Only 1 type of infection recorded across the duration of both the secondary trial and the primary trial.",
@@ -31566,7 +31566,7 @@
     },
     "4a8f0562-355b-4a68-8790-c283d93ce766": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00093808",
         "Secondary_id": "NCT00394082",
         "Statement": "the primary trial and the secondary trial reported the same percentage of dehydrated patients during the studies.",
@@ -31580,7 +31580,7 @@
     },
     "04a9b8af-d01f-4090-97e2-0c0fcf8f7fe4": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02491892",
         "Secondary_id": "NCT00887575",
         "Statement": "Cohort 1 of the secondary trial recorded more cases of diarrhea and dyspepsia than cohort 1 of the primary trial.",
@@ -31641,7 +31641,7 @@
     },
     "4243dc45-5a64-486d-ae2a-11448db00dcf": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00246090",
         "Secondary_id": "NCT00266799",
         "Statement": "Cohort 1 of the primary trial 15% less total adverse events than cohort 2 of the secondary trial.",
@@ -31762,7 +31762,7 @@
     },
     "7a981da3-dc7f-4e1f-ae5b-26e5399ba2a5": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02187744",
         "Statement": "sepsis, due to the presence of an implanted device was a common adverse event in the primary trial",
         "Label": "Contradiction",
@@ -31816,7 +31816,7 @@
     },
     "1ac9c526-91e6-4e0d-8570-0a78e3ec78db": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00451555",
         "Statement": "Cohort 1 and 2 of the primary trial recorded exactly the same percentage of each type of adverse events.",
         "Label": "Contradiction",
@@ -31853,7 +31853,7 @@
     },
     "79c07f36-daf9-4844-ad8a-f362fbbaaf81": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00767520",
         "Statement": "Both cohorts of the primary trial reported the same precentage of patients vomiting during the trial.",
         "Label": "Contradiction",
@@ -32080,7 +32080,7 @@
     },
     "b5183c1c-adb5-4877-b061-50a16d6a5b52": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00191815",
         "Secondary_id": "NCT01301729",
         "Statement": "None of the patients in the primary trial committed suicide, however there was one such case in the secondary trial.",
@@ -32149,7 +32149,7 @@
     },
     "81669281-db01-4493-a797-0d60f448f706": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00930930",
         "Statement": "The overall most frequent adverse event in the primary trial was Dehydration.",
         "Label": "Entailment",
@@ -32209,7 +32209,7 @@
     },
     "b64ae9c9-956a-421e-a41f-1886408fec2a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00003782",
         "Statement": "One of the cohorts in the primary trial had more than 5% of patients experiencing side effects.",
         "Label": "Contradiction",
@@ -32248,7 +32248,7 @@
     },
     "3366c10a-3d41-48ae-bfa8-26b9e655761e": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00005908",
         "Statement": "There were 8 cases of pharyngitis in cohort 2 of the primary trial.",
         "Label": "Contradiction",
@@ -32269,7 +32269,7 @@
     },
     "be29030a-98e8-40ad-9138-90076fdb50d3": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01572727",
         "Statement": "Cohort 1 of the primary trial recorded more white blood cell related adversse events than cohort 2.",
         "Label": "Entailment",
@@ -32324,7 +32324,7 @@
     },
     "54e93334-0f21-4ea2-b0f2-34473385da53": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00003830",
         "Statement": "The most common adverse event in both cohorts of the primary trial was Anaphylaxis, which affected less than 1% of patients.",
         "Label": "Entailment",
@@ -32458,7 +32458,7 @@
     },
     "497188e0-9d88-406f-b163-c154516cb12c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01560416",
         "Statement": "There was over 10% more cases of adverse events in cohort 2 than in cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -32506,7 +32506,7 @@
     },
     "f26fb90b-a9a5-4614-9680-2e9f6f0ba649": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01828021",
         "Secondary_id": "NCT01326481",
         "Statement": "Patients in the primary trial and the secondary trial did not have any of the same adverse events, except Supraventricular extrasystoles which was the most common event in both trials.",
@@ -32594,7 +32594,7 @@
     },
     "fa1c6f63-ae37-4c18-918b-7b9ba445fd81": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00391092",
         "Statement": "In total there were 32 cases of Febrile neutropenia in the primary trial.",
         "Label": "Entailment",
@@ -32687,7 +32687,7 @@
     },
     "cae58656-76e7-447a-940e-dfcc78159173": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00244933",
         "Statement": "the primary trial monitors the occurrence of anemia in its adverse events.",
         "Label": "Contradiction",
@@ -32706,7 +32706,7 @@
     },
     "94c4c3fc-7bcb-407b-86b5-6699305d3dbd": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02481050",
         "Statement": "There are no adverse events in the primary trial that occurred more than once.",
         "Label": "Contradiction",
@@ -32729,7 +32729,7 @@
     },
     "103fbaa8-1852-402a-9368-36bbf6c747b2": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00022516",
         "Statement": "At most 3 patients in the primary trial suffered from Neutropenia.",
         "Label": "Contradiction",
@@ -32874,7 +32874,7 @@
     },
     "0fbb4fb4-620b-4ee9-aaa8-956992026cef": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00454532",
         "Statement": "Less than half of patients in cohorts 1 and 2 in the primary trial experienced adverse events.",
         "Label": "Entailment",
@@ -32947,7 +32947,7 @@
     },
     "efc15257-5e19-4b7e-8b51-da94840784d8": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00623233",
         "Secondary_id": "NCT01525589",
         "Statement": "the primary trial recorded 1 patient with a deficiency of platelets in the blood, whereas a total of 6 patients with a platelet deficiency where found in the secondary trial.",
@@ -32998,7 +32998,7 @@
     },
     "0d4ea69b-5e78-48c2-ba3e-d51dc5336ee1": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01310231",
         "Secondary_id": "NCT00093808",
         "Statement": "19.57% of patients in the secondary trial developed an eating disorder, there were no cases of this happening in the primary trial.",
@@ -33041,7 +33041,7 @@
     },
     "7990b9bf-ac76-4f21-b9a1-5e0b4d91b9a9": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02129556",
         "Statement": "Cohort 1 of the primary trial had a much higher number of deaths than cohort 2.",
         "Label": "Contradiction",
@@ -33127,7 +33127,7 @@
     },
     "180d7b66-9ee9-40fb-b4c7-a6060e6f67b7": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02129556",
         "Statement": "Cohort 1 of the primary trial had a much higher mortality rate than cohort 2.",
         "Label": "Entailment",
@@ -33140,7 +33140,7 @@
     },
     "949ac54b-a871-4134-a507-c98a4de55720": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00394082",
         "Secondary_id": "NCT01033032",
         "Statement": "the primary trial recorded cases of Anaphylaxis and Spinal compression fracture, neither of these were observed in the secondary trial.",
@@ -33257,7 +33257,7 @@
     },
     "561a0631-1eb3-48d1-baa2-81eb3fa79b98": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00950300",
         "Secondary_id": "NCT00615901",
         "Statement": "the primary trial recorded a patient with chest pain, whereas the secondary trial observed a patient with abdominal pain.",
@@ -33273,7 +33273,7 @@
     },
     "bc617e84-a0c1-400b-9ad5-88b56d1805e8": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01671319",
         "Statement": "1/42 patients in cohort 1 of the primary trial fainted.",
         "Label": "Entailment",
@@ -33317,7 +33317,7 @@
     },
     "b059e44b-9830-4c45-858e-ebd007fbaf69": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00148668",
         "Statement": "Cohort 1 and 2 of the primary trial recorded the same number of patients with Febrile Neutropenia.",
         "Label": "Contradiction",
@@ -33425,7 +33425,7 @@
     },
     "6e882de6-e55f-40a4-95a1-bdb176e68a18": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00266799",
         "Statement": "None of the patients in cohort 1 of the primary trial had ACUTE VESTIBULAR or acute coronary syndrome.",
         "Label": "Contradiction",
@@ -33459,7 +33459,7 @@
     },
     "233d2ec1-1383-4088-90af-c5a948847631": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00110084",
         "Secondary_id": "NCT01961544",
         "Statement": "the primary trial and the secondary trial both reported cases of Pseudomonal sepsis in their patients.",
@@ -33475,7 +33475,7 @@
     },
     "8e3fe244-d47d-48ce-ab29-4a5226024aad": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00426556",
         "Statement": "There were an equal number of cases of Febrile neutropenia, Leukopenia and Neutropenia across cohorts in the primary trial.",
         "Label": "Entailment",
@@ -33654,7 +33654,7 @@
     },
     "e21171de-ad49-4fc5-9c5d-aa362ca61c8a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00014222",
         "Statement": "Cohort one of the primary trial reported 2/680 patients experiecing eye-related adverse events, whereas cohort two recorded 41.",
         "Label": "Contradiction",
@@ -33724,7 +33724,7 @@
     },
     "e41917b8-d921-4797-b845-0121a75104a4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00129376",
         "Statement": "More than 2% of patients in the primary trial experienced a clinically significant inflammation of the back of the throat.",
         "Label": "Contradiction",
@@ -33760,7 +33760,7 @@
     },
     "3e56c28c-6d5c-49c4-aaf7-b4e2cb3ca2d7": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02491892",
         "Secondary_id": "NCT00887575",
         "Statement": "Cohort 1 of the secondary trial recorded more cases of diarrhea and dyspepsia than cohort 1 of the primary trial, this is due to the significant difference in cohort size.",
@@ -33883,7 +33883,7 @@
     },
     "398f744b-97cf-4f95-b162-99ec6652d327": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01091454",
         "Secondary_id": "NCT00054275",
         "Statement": "There were more cases of Anemia and Leukopenia in the primary trial than the secondary trial.",
@@ -33997,7 +33997,7 @@
     },
     "11403f92-661b-4334-8dfb-098586610ec6": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02536339",
         "Secondary_id": "NCT00371345",
         "Statement": "Respiratory illnesses were observed in most of the patients in the primary trial and the secondary trial.",
@@ -34131,7 +34131,7 @@
     },
     "a15b4c0c-232b-4209-bf60-35d160e41d2c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT03012477",
         "Statement": "One patient in the primary trial experienced a thromboembolic event, a condition associated with a high degree of morbidity and mortality. However, the most common adverse event was Anemia.",
         "Label": "Contradiction",
@@ -34169,7 +34169,7 @@
     },
     "e2d4c56c-a68f-4751-907d-9c2355c9528b": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01463007",
         "Secondary_id": "NCT00965523",
         "Statement": "A significantly higher proportion of patients in the secondary trial suffured from infection compared to the primary trial.",
@@ -34235,7 +34235,7 @@
     },
     "9ad3444c-143d-4c28-a08a-e0c9cda44900": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00243503",
         "Secondary_id": "NCT00448279",
         "Statement": "the primary trial and the secondary trial did not observe any of the same adverse events in their patients.",
@@ -34326,7 +34326,7 @@
     },
     "f3cebdf7-be0c-45ad-85bd-bde827524e20": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00693719",
         "Statement": "the primary trial recorded less than 5 different Adverse Events .",
         "Label": "Entailment",
@@ -34341,7 +34341,7 @@
     },
     "b5c7bfd2-d491-400c-8444-8bc424cd5dbf": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01705691",
         "Statement": "A patient in the primary trial suffered from Kidney stones.",
         "Label": "Entailment",
@@ -34440,7 +34440,7 @@
     },
     "62b5fe62-470d-46e3-82a6-d57cd6cab452": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00471276",
         "Secondary_id": "NCT00951665",
         "Statement": "Gastrointestinal haemorrhage was more common in patients from cohort 1 of the primary trial than cohort 1 of the secondary trial.",
@@ -34569,7 +34569,7 @@
     },
     "207a1d82-a61b-4b5f-bebf-0706def6729d": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01008150",
         "Secondary_id": "NCT00375427",
         "Statement": "In total the secondary trial recorded only 1 more case of Mucosal inflammation than the primary trial.",
@@ -34637,7 +34637,7 @@
     },
     "968aeaf1-44b9-4454-8c99-e3c207037485": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01491737",
         "Statement": "There were 4 cases of Febrile neutropenia and heart failure in cohort 1 of the primary trial.",
         "Label": "Contradiction",
@@ -34717,7 +34717,7 @@
     },
     "6dea5ffa-066d-45bf-b7e5-df3ae5bca0b6": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00006110",
         "Secondary_id": "NCT00464646",
         "Statement": "the secondary trial records several gastrointestinal adverse events, whereas the primary trial doesn\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5t record any GI adverse events.",
@@ -34770,7 +34770,7 @@
     },
     "87eca8d2-72fe-4285-9884-6d2ec7bae6df": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00567190",
         "Statement": "There was exactly the same proportion of anemic patinets in both cohorts of the primary trial.",
         "Label": "Contradiction",
@@ -34908,7 +34908,7 @@
     },
     "343e0a32-aebe-4bbb-97c0-b2c597c36802": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00392392",
         "Secondary_id": "NCT00503906",
         "Statement": "the primary trial records two different types of pain in its adverse events, in the abdomen and chest area, the secondary trial does not record any types of pain in its participants. ",
@@ -34972,7 +34972,7 @@
     },
     "c86ef61b-7565-465a-82ba-25e7ac050ccc": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02139358",
         "Secondary_id": "NCT02574455",
         "Statement": "There was one case of hemorrhaging in the primary trial, and no recorded cases in the secondary trial.",
@@ -35023,7 +35023,7 @@
     },
     "58dec898-e0af-41c1-96f9-7163d3e3e855": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02019277",
         "Secondary_id": "NCT00863655",
         "Statement": "the primary trial and the secondary trial recorded three of the same types of adverse events",
@@ -35061,7 +35061,7 @@
     },
     "5cf74526-9f91-498d-a13a-6393dcd45b7b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02291913",
         "Statement": "One patient in the primary trial suffered from an inflammation of the liver.",
         "Label": "Contradiction",
@@ -35096,7 +35096,7 @@
     },
     "c40d8532-4e66-4eef-9644-91f20a02066d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02001974",
         "Statement": "No cases of Oesophageal adenocarcinoma were recorded in the primary trial.",
         "Label": "Entailment",
@@ -35190,7 +35190,7 @@
     },
     "4c4c191c-de68-44c8-a23c-2455acc43d46": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00371345",
         "Secondary_id": "NCT00475670",
         "Statement": "There is no overlap between adverse events obeserved in the primary trial and the secondary trial.",
@@ -35353,7 +35353,7 @@
     },
     "ae583ea3-36a5-472c-acda-825cd7d513b6": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00454805",
         "Statement": "In the primary trial there were no cases of subendocardial myocardial infarction in cohort 1 or 2.",
         "Label": "Entailment",
@@ -35390,7 +35390,7 @@
     },
     "a18c447b-de08-48ef-8e65-0ecaa775c2b0": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00206427",
         "Statement": "A patient in the primary trial had a vaginal fungal infection.",
         "Label": "Contradiction",
@@ -35432,7 +35432,7 @@
     },
     "d56745c3-ba0b-4b42-b3cf-ac060f658d83": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00670982",
         "Statement": "Acute coronary syndrome was the most prevalent adverse event in the primary trial, other than Thrombocytopenia .",
         "Label": "Contradiction",
@@ -35450,7 +35450,7 @@
     },
     "0ef77b5d-684a-4a87-bf61-8d4bc9975b7f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01446159",
         "Statement": "the primary trial only had a total of 6 patients in across both its cohorts.",
         "Label": "Entailment",
@@ -35676,7 +35676,7 @@
     },
     "50a524ae-2135-45f7-ae9b-515fd4e2e404": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02445586",
         "Secondary_id": "NCT02115984",
         "Statement": "More than half of patients in the primary trial experienced adverse events, and 100% of patients in the secondary trial did not experience an adverse event.",
@@ -35780,7 +35780,7 @@
     },
     "a321acf0-2296-4588-bf96-85b22bf1420f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00274456",
         "Statement": "There are a total of 14 cases of neutropenia related adverse events in the primary trial across both cohorts.",
         "Label": "Entailment",
@@ -35875,7 +35875,7 @@
     },
     "b975dc12-757e-4ef5-af33-83dfce12e6cc": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01989676",
         "Statement": "the primary trial only records GI adverse events.",
         "Label": "Contradiction",
@@ -35994,7 +35994,7 @@
     },
     "2db9e0c7-d94b-47d2-a61f-55a0896d714e": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00789581",
         "Secondary_id": "NCT02445586",
         "Statement": "the secondary trial reported more cases of Haematemesis, but the primary trial had more cases of Sinus tachycardia.",
@@ -36043,7 +36043,7 @@
     },
     "3129e58d-0c16-42a5-90b4-f26e048dfe58": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01644890",
         "Statement": "Throughout the primary trial, one patient in cohort 1 developed issues with their vision.",
         "Label": "Contradiction",
@@ -36078,7 +36078,7 @@
     },
     "7be7cecb-d265-4098-9969-a40555702573": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00679211",
         "Statement": "1 patient in the primary trial was diangosed with Influenza.",
         "Label": "Contradiction",
@@ -36089,7 +36089,7 @@
     },
     "5b0d3709-7879-4dea-96c3-29178cd9f162": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00767520",
         "Statement": "Both cohorts of the primary trial reported the same number of patients vomiting during the trial.",
         "Label": "Entailment",
@@ -36297,7 +36297,7 @@
     },
     "274d9d2b-9227-4496-a525-d5477b0003ce": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00796978",
         "Secondary_id": "NCT01276041",
         "Statement": "More patients in cohort 1 of the secondary trial suffered from oedema in their limbs, compared to patients in cohort 2 of the primary trial.",
@@ -36567,7 +36567,7 @@
     },
     "c66963b9-19e0-4c0f-bb65-2fec15e60b8f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00965523",
         "Statement": "The most common adverse events in the primary trial where Infection and Stomatitis, affecting a total of 14 patients.",
         "Label": "Contradiction",
@@ -36592,7 +36592,7 @@
     },
     "f541ce25-c43e-496b-98e6-8470fe23f840": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00559845",
         "Secondary_id": "NCT00426556",
         "Statement": "In total there were more adverse events in cohort 1 of the secondary trial than in cohort 2 of the primary trial.",
@@ -36785,7 +36785,7 @@
     },
     "6babfc60-5043-4f2b-9605-3e44744265e9": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00398567",
         "Statement": "80% of patients in the primary trial did not suffer any adverse events.",
         "Label": "Contradiction",
@@ -36796,7 +36796,7 @@
     },
     "5ca02204-6120-4b02-bf3b-fba94d6fac4f": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00274469",
         "Statement": "No more than 1% of either cohorts of the primary trial felt nauseous.",
         "Label": "Entailment",
@@ -36820,7 +36820,7 @@
     },
     "c28ad685-4c91-492a-85ab-180f37d9cef5": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00290758",
         "Statement": "There was one GU and three GI adverse events recorded in the primary trial.",
         "Label": "Contradiction",
@@ -36910,7 +36910,7 @@
     },
     "9dbf55d5-6af3-4250-b5cb-97799cdf778a": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02370238",
         "Statement": "There were no cases of Intracranial hemorrhage in the primary trial.",
         "Label": "Entailment",
@@ -37011,7 +37011,7 @@
     },
     "4a6dc84a-3afd-4060-b8c5-981895f31099": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00312208",
         "Statement": "Cases of Cardiomyopathy and Coagulation disorders were only observed in cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -37046,7 +37046,7 @@
     },
     "11e84dc4-6573-4ad7-b2d9-cfc66b626e1c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT02574455",
         "Statement": "More than a quarter of patients in cohort 1 of the primary trial experienced an adverse event.",
         "Label": "Entailment",
@@ -37057,7 +37057,7 @@
     },
     "f1f2e066-a016-422f-8627-d0e477933352": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00193063",
         "Statement": "In the primary trial patient cohort, 3 different types of infections are observed. ",
         "Label": "Entailment",
@@ -37115,7 +37115,7 @@
     },
     "2b543cc7-e295-4dc6-ad04-a2e43e9b3d97": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01565083",
         "Statement": "Two different types of tachycardia occurred to patients in cohort 2 of the primary trial.",
         "Label": "Entailment",
@@ -37189,7 +37189,7 @@
     },
     "b4b3ebdf-0e46-48fd-a57d-7d2a6c8a48de": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01075100",
         "Secondary_id": "NCT00290758",
         "Statement": "several different mental health issues were observed in the primary trial and the secondary trial.",
@@ -37307,7 +37307,7 @@
     },
     "ba533122-db9d-49e1-a2d1-936c8fdfdd00": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01298193",
         "Statement": "More than 15 patients in cohort 1 of the primary trial experienced adverse events.",
         "Label": "Entailment",
@@ -37318,7 +37318,7 @@
     },
     "f20cd859-7159-457a-a1cb-56bdb01d521b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00274456",
         "Statement": "There are a total of 7 cases of Gastritis in the primary trial across both cohorts.",
         "Label": "Contradiction",
@@ -37353,7 +37353,7 @@
     },
     "d33df923-6c12-4135-b339-5cefdd240985": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00003782",
         "Statement": "Neither of the cohorts in the primary trial had more than 5% of patients experiencing side effects.",
         "Label": "Entailment",
@@ -37366,7 +37366,7 @@
     },
     "0f49a1ec-ed73-465b-be20-b70fe990b1f0": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00333775",
         "Secondary_id": "NCT00201864",
         "Statement": "There are several coagulative adverse events recorded in the primary trial, but not a single one in the secondary trial.",
@@ -37492,7 +37492,7 @@
     },
     "46906361-5133-4db9-b9e5-b9b7f80a8666": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00721630",
         "Secondary_id": "NCT00364611",
         "Statement": "the primary trial and the secondary trial recorded the same proportion of patients experiencing nausea.",
@@ -37539,7 +37539,7 @@
     },
     "6c57e451-a706-4b32-ae71-254e9d0e04de": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01250379",
         "Statement": "None of the patients in the primary trial had Thrombocytopenia, congestive Cardiac failure, Pancytopenia, Acute coronary syndrome or Atrial fibrillation.",
         "Label": "Entailment",
@@ -37569,7 +37569,7 @@
     },
     "83883edd-ea16-4b20-8a97-2a545f957add": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00006110",
         "Secondary_id": "NCT00464646",
         "Statement": "the secondary trial records only gastrointestinal adverse events, whereas the primary trial doesn\u201a\u00c4\u00f6\u221a\u00d1\u221a\u00a5t record any GI adverse events.",
@@ -37622,7 +37622,7 @@
     },
     "619d88fd-cef5-4f1a-83dc-3cc710c1c93d": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00203502",
         "Statement": "Less than 30% of patients in the primary trial experienced at least 1 adverse event.",
         "Label": "Contradiction",
@@ -37684,7 +37684,7 @@
     },
     "dfe1236f-ac29-4c1c-a287-6f46abb7703d": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00810797",
         "Secondary_id": "NCT00828074",
         "Statement": "Skin infections were more common in patients in cohort 2 of the secondary trial, than in cohort 1 of the primary trial.",
@@ -37755,7 +37755,7 @@
     },
     "6ce5a9d7-5793-43b0-92ed-980cca3be02b": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01961544",
         "Statement": "the primary trial reported a combined total of 3 cases of Pericardial effusion, Asthenia and Gastritis in cohort 1.",
         "Label": "Contradiction",
@@ -37781,7 +37781,7 @@
     },
     "a611e8dd-cafc-46dd-b8ed-3fa7c5f5a7b4": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00591851",
         "Statement": "There were 4 different Gastrointestinal adverse events recorded in cohort 1 of the primary trial.",
         "Label": "Entailment",
@@ -37845,7 +37845,7 @@
     },
     "cfb07772-e485-491c-8ae3-9009e3d04415": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00201864",
         "Statement": "One patient in the primary trial had a WBC count far below normal.",
         "Label": "Contradiction",
@@ -37879,7 +37879,7 @@
     },
     "8d90d538-3b56-48dd-bd58-007d266c923c": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT00915018",
         "Statement": "The only cases of cardiac problems in the primary trial occurred in cohort 1.",
         "Label": "Contradiction",
@@ -38030,7 +38030,7 @@
     },
     "efd950a8-ae79-4d4a-9ce7-3f1d0a37e6de": {
         "Type": "Single",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01610284",
         "Statement": "1 patient in the primary trial had an abrupt loss of heart function.",
         "Label": "Entailment",
@@ -38063,7 +38063,7 @@
     },
     "e00b0ccc-e53b-44ba-9555-b6f8d6d5e55a": {
         "Type": "Comparison",
-        "Section_id": "Adverse_Events",
+        "Section_id": "Adverse Events",
         "Primary_id": "NCT01256567",
         "Secondary_id": "NCT01926886",
         "Statement": "The most common adverse event in the primary trial was Febrile neutropenia (42.86%), whereas in the secondary trial it was a decrease in Ejection fraction (4.95%).",
