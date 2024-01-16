@@ -2,7 +2,7 @@
 
 ### GLOBALS ###
 
-PROJECT_NAME = GEemini
+PROJECT_NAME = Gemini
 PYTHON_INTERPRETER = python3
 
 ## Create Python Environment

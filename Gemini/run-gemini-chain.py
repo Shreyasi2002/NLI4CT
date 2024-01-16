@@ -112,7 +112,7 @@ def write_json(id, new_data, filename='./Gemini_results.json'):
         json.dump(file_data, file, indent = 4)
 
 
-count = 2221
+count = 5344
 for sample in samples[count:]:
     count += 1
     
