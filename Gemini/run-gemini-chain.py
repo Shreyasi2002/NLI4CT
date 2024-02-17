@@ -32,9 +32,9 @@ safety_settings = [
   }
 ]
 
-model = genai.GenerativeModel("gemini-pro", safety_settings=safety_settings, generation_config={"temperature":0.3})
+model = genai.GenerativeModel("gemini-pro", safety_settings=safety_settings, generation_config={"temperature":0.7})
 
-data = json.load(open('../training-data/test.json'))
+data = json.load(open('../training-data/train.json'))
 data_expanded = []
 for _id, value in data.items():
     temp = {}
@@ -51,13 +51,13 @@ for _id, value in data.items():
 
 CT_files = os.listdir("../training-data/CT_json")
 CT_files_data = {}
+
 for file in CT_files:
     if file == ".DS_Store":
         CT_files.remove(file)
         continue
 
-    path = f"../training-data/CT_json/{file}".encode('latin-1')
-    path = path.decode('utf-8')
+    path = f"../training-data/CT_json/{file}"
     content = json.load(open(path))
     CT_files_data[file[:-5]] = content
 
@@ -75,32 +75,32 @@ for sample in data_expanded:
 
 def get_question(context, question):
     template = f"""
-        Imagine three different clinical experts are answering the question given below.
+        Act as a clinical expert who can perform natural language inference seamlessly.
+
+        Now, imagine three different clinical experts are answering the question given below.
         All experts will write down first step of their thinking, then share it with the group.
         Then all experts will go on to the next step of their thinking.
         If any expert realises they're wrong at any point then they leave.
-        Continue till a definite conclusion is reached.
+        They will continue till a definite conclusion is reached.
 
         Incorporate information from the context given below into the evaluation process. 
-        Cross-reference the model's responses with relevant details from the context to 
-        enhance the accuracy of interpretation.
-
-        Give a final conclusion after assessing the logical consistency within the model's responses.
+        Arrive at the correct prediction for correct reasons (be faithful).
+        Maintain logical consistency throughout the process.
+        Please align with the context given and do not make any false assumptions of your own.
 
         CONTEXT: {context}
 
-        QUESTION: Does the statement {question} contradict or support the context? Give a step by step explanation of your thinking.
+        QUESTION: Does the context imply the hypothesis {question}? Give a step by step explanation of your thinking.
         
     """
-    return template
-
-FINAL_QUESTION = '''
-Based on the comprehensive evaluation of the model's responses and the given context, hypothesis and logical analysis, 
-does the given hypothesis support the context or not? Write one word answer - Yes or No.
-'''
+    FINAL_QUESTION = f'''
+    Based on the comprehensive evaluation of the model's responses and the given context, hypothesis and failproof analysis, 
+    does the given context imply the hypothesis {question}? Write one word answer - Yes or No. ()
+    '''
+    return template, FINAL_QUESTION
 
 # function to add to JSON
-def write_json(id, new_data, filename='./Gemini_results.json'):
+def write_json(id, new_data, filename='./Gemini_results-1.json'):
     with open(filename,'r+') as file:
         # First we load existing data into a dict.
         file_data = json.load(file)
@@ -112,10 +112,10 @@ def write_json(id, new_data, filename='./Gemini_results.json'):
         json.dump(file_data, file, indent = 4)
 
 
-count = 5344
-for sample in samples[count:]:
+import time
+count = 0
+for sample in samples:
     count += 1
-    
     print("\n############################################\n")
     print(f"-------Running for sample {count} : {sample['id']} --------\n")
 
@@ -127,10 +127,12 @@ for sample in samples[count:]:
         response = chat.send_message(prompt)
         return response.text
 
-    question = get_question(sample['clinical_trial'], sample['hypothesis'])
+    question, FINAL_QUESTION = get_question(sample['clinical_trial'], sample['hypothesis'])
     explanation = get_chat_response(chat, question)
 
     answer = get_chat_response(chat, FINAL_QUESTION)
+
+    time.sleep(0.5)
 
     console.print(Markdown(explanation))
     print("\n")

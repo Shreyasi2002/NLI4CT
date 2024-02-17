@@ -17,7 +17,7 @@ def write_json(id, new_data, filename='./results.json'):
         json.dump(file_data, file, indent = 4)
 
 for key in keys:
-    if "Yes" in labels[key]["answer"]:
+    if labels[key]["answer"].startswith("Yes") or labels[key]["answer"].startswith("**Yes"):
         write_json(key, {"Prediction": "Entailment"})
-    else:
+    elif labels[key]["answer"].startswith("No") or labels[key]["answer"].startswith("**No"):
         write_json(key, {"Prediction": "Contradiction"})
