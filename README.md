@@ -42,7 +42,7 @@
 </ol>
 
 ## About
-Large Language models (LLMs) have demonstrated state-of-the-art performance in various natural language processing (NLP) tasks across multiple domains, yet they are prone to shortcut learning and factual inconsistencies. This research investigates LLMs' robustness, consistency, and faithful reasoning when performing Natural Language Inference (NLI) on breast cancer Clinical Trial Reports (CTRs) in the context of SemEval 2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials. We examine the reasoning capabilities of LLMs and their adeptness at logical problem-solving. A comparative analysis is conducted on pre-trained language models (PLMs), GPT-3.5, and Gemini Pro under zero-shot settings using Retrieval-Augmented Generation (RAG) framework, integrating various reasoning chains. The evaluation yields an F1 score of **0.69**, consistency of **0.71**, and a faithfulness score of **0.90** on the test dataset.
+Large Language models (LLMs) have demonstrated state-of-the-art performance in various natural language processing (NLP) tasks across multiple domains, yet they are prone to shortcut learning and factual inconsistencies. This research investigates LLMs' robustness, consistency, and faithful reasoning when performing Natural Language Inference (NLI) on breast cancer Clinical Trial Reports (CTRs) in the context of SemEval 2024 Task 2: Safe Biomedical Natural Language Inference for Clinical Trials. We examine the reasoning capabilities of LLMs and their adeptness at logical problem-solving. A comparative analysis is conducted on pre-trained language models (PLMs), GPT-3.5, and Gemini Pro under zero-shot settings using Retrieval-Augmented Generation (RAG) framework, integrating various reasoning chains.
 ![models](https://github.com/Shreyasi2002/NLI4CT/assets/75871525/b911d685-aa70-4deb-9b45-df0ce3811824)
 
 
@@ -81,3 +81,25 @@ pip install -r requirements.txt
 ```
 
 ### Get API Keys
+Create a `.env` file in the main directory. Fetch the API Keys for GPT-3.5 and Gemini Pro and put them in the `.env` file as follows -
+```
+GOOGLE_API_KEY = "..."
+OPENAI_API_KEY = "..."
+```
+
+### Run Gemini Pro
+Run the multi-turn conversation chain using the following command - 
+```bash
+python run-gemini-chain.py
+```
+![template](https://github.com/Shreyasi2002/NLI4CT/assets/75871525/c795e7d5-acc5-4d02-8819-9249e05c307b)
+Gemini Pro will generate an explanation and a label (Yes/No) for each statement in the dataset. 
+
+## Results
+The zero-shot evaluation of Gemini Pro yielded an F1 score of **0.69**, with a consistency of **0.71** and a faithfulness score of **0.90** on the official test dataset. Our system achieved a fifth-place ranking based on the faithfulness score, a sixteenth-place ranking based on the consistency score, and a twenty-first-place ranking based on the F1 score. Gemini Pro outperforms GPT-3.5 with an improvement in F1 score by **+1.9%**, while maintaining almost similar consistency score. Additionally, the faithfulness score of Gemini Pro improves by **+3.5%** compared to GPT-3.5.
+
+## Citation
+```
+
+```
+
